@@ -1,0 +1,41 @@
+Name,Skills,Experience,Gender,Education,Outcome
+James,Python; Data Analysis,3,Male,Masters,1
+Mary,Python; Data Analysis,3,Female,Bachelors,0
+Michael,Java; Backend,4,Male,Bachelors,1
+Jennifer,Java; Backend,4,Female,Masters,1
+Robert,Machine Learning,5,Male,Masters,0
+Linda,Machine Learning,5,Female,Masters,0
+David,Web Dev; JS,2,Male,Bachelors,1
+Elizabeth,Web Dev; JS,2,Female,Bachelors,0
+William,Cybersecurity,4,Male,Masters,1
+Patricia,Cybersecurity,4,Female,Bachelors,0
+John,Python; Data Analysis,3,Male,Bachelors,1
+Susan,Python; Data Analysis,3,Female,Masters,1
+Charles,Java; Backend,5,Male,Masters,0
+Jessica,Java; Backend,5,Female,Bachelors,1
+Thomas,Machine Learning,4,Male,Bachelors,1
+Sarah,Machine Learning,4,Female,Masters,1
+Richard,Web Dev; JS,3,Male,Masters,0
+Karen,Web Dev; JS,3,Female,Bachelors,1
+Joseph,Cybersecurity,2,Male,Bachelors,0
+Barbara,Cybersecurity,2,Female,Masters,1
+Daniel,Python; Data Analysis,5,Male,Masters,1
+Nancy,Python; Data Analysis,5,Female,Masters,1
+Matthew,Java; Backend,3,Male,Bachelors,1
+Lisa,Java; Backend,3,Female,Bachelors,0
+Anthony,Machine Learning,2,Male,Masters,0
+Betty,Machine Learning,2,Female,Bachelors,0
+Mark,Web Dev; JS,4,Male,Bachelors,0
+Sandra,Web Dev; JS,4,Female,Masters,1
+Steven,Cybersecurity,5,Male,Masters,1
+Ashley,Cybersecurity,5,Female,Bachelors,0
+Paul,Python; Data Analysis,2,Male,Bachelors,1
+Donna,Python; Data Analysis,2,Female,Bachelors,0
+Andrew,Java; Backend,4,Male,Masters,1
+Emily,Java; Backend,4,Female,Masters,0
+Joshua,Machine Learning,3,Male,Bachelors,0
+Michelle,Machine Learning,3,Female,Bachelors,1
+Kevin,Web Dev; JS,5,Male,Masters,0
+Amanda,Web Dev; JS,5,Female,Masters,0
+Brian,Cybersecurity,3,Male,Bachelors,0
+Melissa,Cybersecurity,3,Female,Bachelors,0
