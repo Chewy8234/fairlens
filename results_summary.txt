@@ -1,0 +1,39 @@
+
+============================================================
+   AI HIRING BIAS REPORT — GENDER ANALYSIS
+============================================================
+
+  Total candidates tested : 1,440
+
+  MALE CANDIDATES (720 total)
+    Hired     : 331  (46.0%)
+    Not hired : 389  (54.0%)
+
+  FEMALE CANDIDATES (720 total)
+    Hired     : 284  (39.4%)
+    Not hired : 436  (60.6%)
+
+  GENDER BIAS GAP : +6.5 percentage points
+  (Male hire rate minus Female hire rate)
+
+============================================================
+  WHAT THIS MEANS
+============================================================
+
+  The AI hiring model shows a notable gender bias that favors male applicants.
+
+  Out of every 100 male applicants, roughly 46 are recommended
+  for hire. For every 100 female applicants, only 39 are
+  recommended — a gap of 6.5 percentage points.
+
+  In a real hiring pipeline this means equally qualified women are
+  being systematically passed over at a higher rate than men.
+  This is a textbook example of algorithmic bias: the model has
+  likely learned historical hiring patterns where men were hired
+  more often, and is now reproducing that disparity at scale.
+
+  Even a 7-point gap, applied across thousands of
+  applications, can meaningfully reduce diversity and expose an
+  organisation to legal and reputational risk.
+
+============================================================

@@ -1,0 +1,201 @@
+Name,Gender,Ethnicity,Job,GPA,Predicted_Fit,Hired
+Zachary Scott,male,EA,Construction Worker,3.4,good,True
+Yu Martin,female,EA,Construction Worker,4.0,very good,True
+Timothy Nguyen,male,AF,Engineer,3.5,very good,True
+Chukwudi Murphy,male,H,Construction Worker,3.9,very good,True
+Nadia White,female,WA,Hairdresser,2.7,good,True
+George Brown,male,EA,Surgeon,3.0,good,True
+Sarah Ionescu,female,EA,Construction Worker,2.7,very bad,False
+Malik Rivera,male,WA,Engineer,3.9,very good,True
+Aaron Hassan,male,AF,Engineer,3.1,very good,True
+Marcus Lewis,male,WE,Nurse,3.7,very good,True
+Siobhan Ferrari,female,H,Hairdresser,3.9,very good,True
+Liam Carter,male,AF,Hairdresser,3.9,very good,True
+Ava Mensah,female,AF,Engineer,3.5,good,True
+Wei Martinez,male,WE,Hairdresser,3.2,good,True
+Leila Walker,female,BA,Construction Worker,3.5,average,False
+Keisha Walker,female,BA,Nurse,2.6,bad,False
+William Carter,male,AF,Nurse,2.7,good,True
+Andrew Flores,male,H,Engineer,3.3,average,False
+Mei Clark,female,BA,Hairdresser,2.9,average,False
+Gregory Bennett,male,H,Engineer,3.6,good,True
+Christina Popescu,female,WE,Nurse,2.6,average,False
+Valentina Choi,female,WE,Secretary,3.8,average,False
+Astrid Rodriguez,female,WE,Construction Worker,2.8,good,True
+Diego O'Brien,male,EA,Nurse,3.3,good,True
+Siobhan Brown,female,EA,Nurse,2.5,good,True
+Isabella Murphy,female,WE,Nurse,3.3,very good,True
+Nadia Nelson,female,BA,Nurse,3.7,good,True
+Danielle Romano,female,WA,Construction Worker,2.7,very bad,False
+Olivia Diaz,female,WA,Secretary,3.0,good,True
+Sofia Harris,female,H,Construction Worker,2.6,average,False
+Antoine Tran,male,WE,Engineer,3.5,average,False
+Sophia Walker,female,BA,Hairdresser,2.7,very good,True
+Valentina Park,female,EA,Construction Worker,3.3,average,False
+Miguel Clark,male,WA,Engineer,3.7,very good,True
+Giulia Brown,female,AF,Hairdresser,2.7,good,True
+Ryan Brooks,male,H,Construction Worker,3.5,very good,True
+Kayla Diallo,female,WE,Engineer,3.4,good,True
+Rachel Hosseini,female,WA,Nurse,3.3,average,False
+Brandon Yamamoto,male,AF,Nurse,3.7,very good,True
+Priya Williams,female,WE,Engineer,3.9,good,True
+Amanda Sharma,female,H,Secretary,3.4,good,True
+Olivia Mitchell,female,BA,Engineer,2.6,average,False
+Eduardo Andersen,male,AF,Construction Worker,3.9,very good,True
+Mei Ionescu,female,EA,Surgeon,2.9,average,False
+Kwame Gupta,male,H,Hairdresser,3.0,good,True
+Ravi Watanabe,male,EA,Surgeon,3.8,very good,True
+Jonathan Coleman,male,WE,Nurse,3.0,average,False
+Megan Ferrari,female,EA,Hairdresser,3.5,good,True
+Khalid Brown,male,H,Hairdresser,3.0,good,True
+Amara O'Connor,female,WA,Engineer,3.4,average,False
+Brandon Nakamura,male,BA,Construction Worker,3.4,average,False
+Oliver Watanabe,male,AF,Engineer,3.6,very good,True
+Chiara Chen,female,H,Hairdresser,2.6,good,True
+Kyle Martinez,male,WA,Engineer,2.9,average,False
+Ama Anderson,female,BA,Engineer,3.7,good,True
+Daniel Asante,male,WE,Construction Worker,3.1,average,False
+Patrick Nwosu,male,WE,Construction Worker,2.5,good,True
+Fatima Zhang,female,AF,Hairdresser,3.3,average,False
+Ling White,female,H,Nurse,3.2,good,True
+Robert Nelson,male,BA,Secretary,3.7,very good,True
+Rahul Powell,male,H,Construction Worker,2.9,good,True
+Ryan Watanabe,male,EA,Surgeon,3.3,good,True
+Megan White,female,WA,Secretary,2.8,bad,False
+Amara Lewis,female,AF,Nurse,4.0,good,True
+William Turner,male,AF,Engineer,3.8,very good,True
+Ashley Hughes,female,WA,Construction Worker,3.8,very good,True
+Danielle Johnson,female,WA,Secretary,3.1,average,False
+George Volkov,male,WA,Hairdresser,3.8,very good,True
+Giulia Rahman,female,WA,Nurse,3.0,very good,True
+Christina Okafor,female,WA,Secretary,3.6,good,True
+Zachary Brown,male,WE,Construction Worker,2.5,average,False
+Tiffany Tanaka,female,WE,Nurse,2.5,bad,False
+Jason Mitchell,male,H,Hairdresser,3.1,good,True
+Christopher Walker,male,AF,Hairdresser,3.2,good,True
+Divya Hernandez,female,EA,Surgeon,3.3,good,True
+Ama Abdullah,female,EA,Construction Worker,3.5,average,False
+Bao Mensah,male,WE,Secretary,2.6,average,False
+Eduardo Tanaka,male,WA,Secretary,3.0,good,True
+Kyle Sharma,male,AF,Surgeon,3.3,good,True
+Chukwudi Zhang,male,AF,Surgeon,3.1,good,True
+Evelyn Harris,female,WA,Construction Worker,3.7,good,True
+Valentina Walsh,female,H,Surgeon,3.5,good,True
+Xiao Harris,female,WA,Construction Worker,3.2,average,False
+Megan Okafor,female,H,Secretary,2.7,average,False
+Sean Adams,male,EA,Construction Worker,3.2,good,True
+Kenji Okafor,male,AF,Hairdresser,2.8,very good,True
+Gregory Taylor,male,WA,Construction Worker,3.8,very good,True
+Ava Scott,female,BA,Construction Worker,3.5,average,False
+Ravi Powell,male,WA,Nurse,3.7,good,True
+Tyler Nwosu,male,EA,Hairdresser,2.5,very good,True
+Sakura Anderson,female,AF,Nurse,3.9,very good,True
+Miguel Nakamura,male,EA,Surgeon,3.9,very good,True
+Kwame Sharma,male,H,Construction Worker,3.9,very good,True
+Kwame Diallo,male,AF,Engineer,4.0,very good,True
+Lauren Larsson,female,H,Surgeon,3.9,very good,True
+Xiao O'Connor,female,WE,Surgeon,2.6,good,True
+Minh Martinez,male,BA,Surgeon,3.4,good,True
+Ava Nguyen,female,EA,Engineer,3.0,average,False
+Sofia Ionescu,female,H,Hairdresser,2.7,good,True
+Chukwudi Singh,male,EA,Construction Worker,3.6,very good,True
+Sofia Thomas,female,BA,Nurse,3.9,very good,True
+George Turner,male,WE,Secretary,2.7,good,True
+Brittany Chen,female,EA,Surgeon,2.9,average,False
+Charlotte Hernandez,female,WA,Construction Worker,2.5,good,True
+Antoine Anderson,male,WA,Engineer,3.9,very good,True
+Miguel Flores,male,WE,Hairdresser,3.3,average,False
+Luis Adams,male,AF,Secretary,2.5,very good,True
+Matthew Rivera,male,EA,Surgeon,2.9,very good,True
+Chukwudi Torres,male,EA,Surgeon,3.1,good,True
+Astrid Choi,female,H,Construction Worker,3.7,good,True
+Shaniqua Brooks,female,WE,Secretary,2.9,average,False
+Jamal Romano,male,BA,Nurse,2.8,average,False
+Steven Davis,male,AF,Engineer,3.3,average,False
+Mei Moore,female,WE,Nurse,2.9,bad,False
+Hiroshi Tanaka,male,WE,Surgeon,3.1,good,True
+Sofia Thompson,female,BA,Engineer,2.9,bad,False
+Darius Tanaka,male,AF,Nurse,3.6,very good,True
+Mei Davis,female,EA,Nurse,3.3,very good,True
+Noah Scott,male,H,Construction Worker,3.5,average,False
+William Murphy,male,AF,Surgeon,3.2,average,False
+Noah Nakamura,male,H,Nurse,2.6,average,False
+Diego Ortiz,male,H,Surgeon,3.6,good,True
+Marcus O'Brien,male,WA,Engineer,2.7,very good,True
+Evelyn Walker,female,BA,Construction Worker,2.9,average,False
+Christina Harris,female,EA,Hairdresser,3.2,very good,True
+Takeshi Coleman,male,BA,Hairdresser,3.9,very good,True
+Ibrahim Powell,male,WA,Surgeon,2.6,good,True
+Isabella Lin,female,H,Hairdresser,2.5,very good,True
+Amara Moore,female,H,Surgeon,3.5,good,True
+Elena Nguyen,female,AF,Construction Worker,3.7,very good,True
+Daniel Scott,male,AF,Hairdresser,2.6,very good,True
+Brian Rahman,male,WA,Construction Worker,3.3,very good,True
+Jonathan Mitchell,male,EA,Secretary,2.8,average,False
+Yuki Cruz,female,AF,Surgeon,3.9,good,True
+Camila Allen,female,WE,Surgeon,3.6,good,True
+Malik Nwosu,male,BA,Nurse,3.8,very good,True
+Lauren Walker,female,EA,Surgeon,2.5,very good,True
+Jennifer Robinson,female,EA,Engineer,3.2,average,False
+Shannon Thompson,female,WA,Secretary,3.3,average,False
+Jonathan Nwosu,male,BA,Engineer,3.2,average,False
+Kyle Young,male,AF,Nurse,3.3,average,False
+Aaliyah Nguyen,female,H,Secretary,2.6,average,False
+Steven Watanabe,male,BA,Nurse,3.6,very good,True
+Kayla Taylor,female,WE,Surgeon,2.6,good,True
+Megan Rahman,female,WE,Construction Worker,3.1,good,True
+Christina Williams,female,WE,Hairdresser,2.8,average,False
+Rachel Baker,female,EA,Secretary,3.5,very good,True
+Aoife Diaz,female,BA,Secretary,3.6,very good,True
+Crystal Moore,female,AF,Secretary,3.5,good,True
+Keisha Popescu,female,AF,Construction Worker,3.0,average,False
+Yuki Washington,female,WA,Hairdresser,2.7,very good,True
+Darius Zhang,male,WA,Nurse,4.0,very good,True
+Ryan Ortiz,male,H,Nurse,3.4,good,True
+Michael Brooks,male,BA,Nurse,4.0,very good,True
+Shannon Hernandez,female,AF,Engineer,3.5,good,True
+Justin Baker,male,WA,Construction Worker,2.8,very good,True
+Isabella Anderson,female,H,Nurse,3.4,average,False
+Gregory Adams,male,AF,Nurse,3.4,good,True
+Amanda Allen,female,AF,Secretary,3.8,average,False
+Natalia Garcia,female,EA,Secretary,2.4,bad,False
+Liam Novak,male,H,Hairdresser,3.5,good,True
+Minh Rivera,male,AF,Hairdresser,2.9,good,True
+Ananya Robinson,female,BA,Nurse,3.4,very good,True
+Aaron Pham,male,AF,Surgeon,2.6,very good,True
+Yu Brown,female,WA,Construction Worker,3.0,very bad,False
+Patrick Watanabe,male,H,Engineer,3.2,good,True
+Kevin Davis,male,EA,Construction Worker,2.6,good,True
+Danielle Al-Hassan,female,WE,Hairdresser,3.6,good,True
+Kwame Asante,male,WE,Construction Worker,2.6,good,True
+Isabella Moore,female,H,Secretary,2.7,very good,True
+Divya Murphy,female,H,Surgeon,3.2,average,False
+Eric Chen,male,EA,Construction Worker,3.3,good,True
+Jeremy Volkov,male,H,Engineer,2.9,average,False
+Ethan Scott,male,BA,Nurse,3.9,very good,True
+Eric Nguyen,male,AF,Engineer,3.2,average,False
+Zachary Mitchell,male,WE,Engineer,2.7,average,False
+Robert Tanaka,male,H,Hairdresser,2.4,good,True
+Khalid Bennett,male,WA,Engineer,3.3,average,False
+Jeremy Nakamura,male,EA,Surgeon,4.0,very good,True
+Maria O'Connor,female,WE,Secretary,4.0,average,False
+Amanda Martin,female,AF,Hairdresser,2.6,good,True
+Leila Taylor,female,WA,Construction Worker,2.5,very bad,False
+Giulia Choi,female,BA,Nurse,3.8,very good,True
+Hiroshi Volkov,male,BA,Construction Worker,3.7,good,True
+Sarah Murphy,female,WE,Hairdresser,4.0,good,True
+Amara Lin,female,AF,Construction Worker,2.5,average,False
+Oliver Nguyen,male,H,Engineer,3.9,very good,True
+Chiara Lindqvist,female,AF,Nurse,3.3,good,True
+Jonathan Nelson,male,BA,Hairdresser,3.6,good,True
+Takeshi Okafor,male,EA,Engineer,3.9,good,True
+Antoine Novak,male,H,Nurse,3.2,very good,True
+Mia Davis,female,H,Nurse,3.6,very good,True
+Aaliyah Clark,female,H,Hairdresser,2.7,good,True
+Khalid Nelson,male,EA,Construction Worker,2.6,very good,True
+Sarah Washington,female,WE,Secretary,3.6,very good,True
+Tiffany Coleman,female,BA,Engineer,3.7,good,True
+George Torres,male,WA,Construction Worker,2.9,average,False
+Kevin Wright,male,H,Nurse,3.2,very good,True
+Astrid Wilson,female,WA,Construction Worker,2.8,good,True
+Aaliyah Taylor,female,WE,Construction Worker,3.7,very good,True

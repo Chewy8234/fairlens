@@ -1,0 +1,2001 @@
+Name,Gender,Ethnicity,Experience,Skills
+Wei Zhang,Male,Asian,5,Python; Machine Learning
+Wei Zhang,Male,Asian,6,React; Cybersecurity
+Emily Chen,Female,Asian,1,Data Analysis; Java
+Maria Garcia,Female,Hispanic,8,Machine Learning; Python
+Carlos Martinez,Male,Hispanic,4,Java; Machine Learning
+Lakisha Washington,Female,Black,1,Cloud; Networking
+Carlos Martinez,Male,Hispanic,8,SQL; Cloud
+Maria Garcia,Female,Hispanic,1,Networking; DevOps
+Emily Chen,Female,Asian,3,Networking; Java
+Emily Chen,Female,Asian,4,Cloud; React
+Wei Zhang,Male,Asian,2,DevOps; Cybersecurity
+Carlos Martinez,Male,Hispanic,5,Networking; Cybersecurity
+Lakisha Washington,Female,Black,2,Networking; DevOps
+Emily Chen,Female,Asian,3,DevOps; Java
+Wei Zhang,Male,Asian,7,SQL; React
+Wei Zhang,Male,Asian,9,Cybersecurity; SQL
+Carlos Martinez,Male,Hispanic,1,SQL; Machine Learning
+Carlos Martinez,Male,Hispanic,9,Data Analysis; Cloud
+Maria Garcia,Female,Hispanic,1,Machine Learning; Java
+Emily Chen,Female,Asian,9,React; DevOps
+Maria Garcia,Female,Hispanic,7,DevOps; Networking
+Jamal Jackson,Male,Black,7,Cybersecurity; Python
+Wei Zhang,Male,Asian,5,Data Analysis; Python
+Maria Garcia,Female,Hispanic,7,SQL; Java
+Lakisha Washington,Female,Black,1,SQL; Machine Learning
+John Smith,Male,White,4,SQL; Machine Learning
+Emily Chen,Female,Asian,2,Cloud; Java
+Emily Chen,Female,Asian,9,SQL; Cloud
+Greg Johnson,Male,White,2,Cloud; Python
+Lakisha Washington,Female,Black,2,DevOps; Cloud
+Lakisha Washington,Female,Black,6,Python; DevOps
+Emily Chen,Female,Asian,2,React; Machine Learning
+Wei Zhang,Male,Asian,5,Data Analysis; Networking
+Emily Chen,Female,Asian,9,Networking; SQL
+John Smith,Male,White,5,Machine Learning; React
+Wei Zhang,Male,Asian,5,Cybersecurity; Data Analysis
+John Smith,Male,White,2,Python; React
+Maria Garcia,Female,Hispanic,2,Python; DevOps
+Maria Garcia,Female,Hispanic,9,Python; React
+Wei Zhang,Male,Asian,3,React; Data Analysis
+Greg Johnson,Male,White,2,Python; Java
+Lakisha Washington,Female,Black,1,Data Analysis; Cloud
+Jamal Jackson,Male,Black,9,React; DevOps
+Lakisha Washington,Female,Black,10,Cloud; Machine Learning
+Wei Zhang,Male,Asian,8,SQL; Data Analysis
+Emily Chen,Female,Asian,6,SQL; Python
+Wei Zhang,Male,Asian,1,Cybersecurity; SQL
+Wei Zhang,Male,Asian,5,DevOps; Networking
+Greg Johnson,Male,White,2,Cybersecurity; Cloud
+Jamal Jackson,Male,Black,5,Cybersecurity; Java
+Greg Johnson,Male,White,2,Python; Cybersecurity
+Maria Garcia,Female,Hispanic,2,Machine Learning; Cloud
+Lakisha Washington,Female,Black,5,Python; Java
+Lakisha Washington,Female,Black,10,Data Analysis; React
+Lakisha Washington,Female,Black,7,DevOps; Cybersecurity
+Jamal Jackson,Male,Black,6,DevOps; React
+Emily Chen,Female,Asian,2,Python; Java
+Carlos Martinez,Male,Hispanic,4,Python; SQL
+John Smith,Male,White,9,Java; Data Analysis
+Wei Zhang,Male,Asian,5,SQL; Networking
+John Smith,Male,White,4,Python; Java
+Maria Garcia,Female,Hispanic,4,Data Analysis; Java
+Jamal Jackson,Male,Black,3,Cloud; SQL
+John Smith,Male,White,7,SQL; Java
+Lakisha Washington,Female,Black,1,Data Analysis; Networking
+Wei Zhang,Male,Asian,3,React; Data Analysis
+Jamal Jackson,Male,Black,3,Data Analysis; Cybersecurity
+Jamal Jackson,Male,Black,6,SQL; DevOps
+Carlos Martinez,Male,Hispanic,5,Cloud; React
+Carlos Martinez,Male,Hispanic,3,React; DevOps
+Wei Zhang,Male,Asian,9,Data Analysis; Cloud
+Emily Chen,Female,Asian,9,Machine Learning; Cloud
+Maria Garcia,Female,Hispanic,6,Python; Java
+Carlos Martinez,Male,Hispanic,9,Machine Learning; Cybersecurity
+Maria Garcia,Female,Hispanic,10,React; Machine Learning
+Greg Johnson,Male,White,2,Data Analysis; Cloud
+Wei Zhang,Male,Asian,2,DevOps; React
+Greg Johnson,Male,White,1,Python; React
+Lakisha Washington,Female,Black,10,DevOps; Cloud
+John Smith,Male,White,1,React; Java
+Maria Garcia,Female,Hispanic,8,Cybersecurity; React
+Maria Garcia,Female,Hispanic,9,React; Data Analysis
+Lakisha Washington,Female,Black,10,Python; Java
+Greg Johnson,Male,White,1,Machine Learning; Cybersecurity
+Greg Johnson,Male,White,9,Machine Learning; Python
+Emily Chen,Female,Asian,6,React; Networking
+Greg Johnson,Male,White,5,Networking; Java
+Maria Garcia,Female,Hispanic,2,React; Java
+Greg Johnson,Male,White,1,Cloud; Data Analysis
+Lakisha Washington,Female,Black,3,Data Analysis; Java
+Wei Zhang,Male,Asian,4,Networking; DevOps
+Carlos Martinez,Male,Hispanic,8,Java; Cloud
+Maria Garcia,Female,Hispanic,6,Machine Learning; React
+Emily Chen,Female,Asian,4,Cloud; React
+Carlos Martinez,Male,Hispanic,2,Cybersecurity; React
+Emily Chen,Female,Asian,10,Machine Learning; SQL
+Lakisha Washington,Female,Black,2,Data Analysis; React
+Greg Johnson,Male,White,6,DevOps; Python
+Jamal Jackson,Male,Black,5,Machine Learning; Cybersecurity
+Maria Garcia,Female,Hispanic,3,Machine Learning; Cloud
+Wei Zhang,Male,Asian,9,Python; SQL
+Jamal Jackson,Male,Black,8,Python; Cybersecurity
+Carlos Martinez,Male,Hispanic,2,Data Analysis; Python
+Maria Garcia,Female,Hispanic,4,Networking; Machine Learning
+Maria Garcia,Female,Hispanic,5,React; Java
+John Smith,Male,White,5,Java; Machine Learning
+Jamal Jackson,Male,Black,6,SQL; React
+Emily Chen,Female,Asian,5,Networking; Python
+Jamal Jackson,Male,Black,6,Machine Learning; Networking
+Emily Chen,Female,Asian,7,Cloud; React
+Greg Johnson,Male,White,2,React; DevOps
+Jamal Jackson,Male,Black,10,SQL; Python
+Emily Chen,Female,Asian,5,React; Cloud
+Emily Chen,Female,Asian,8,SQL; DevOps
+Lakisha Washington,Female,Black,8,DevOps; Cloud
+John Smith,Male,White,10,Data Analysis; Cloud
+Wei Zhang,Male,Asian,10,Networking; Python
+Carlos Martinez,Male,Hispanic,2,Java; DevOps
+Lakisha Washington,Female,Black,1,Machine Learning; React
+Wei Zhang,Male,Asian,6,Java; DevOps
+Jamal Jackson,Male,Black,8,Networking; Cloud
+John Smith,Male,White,4,SQL; React
+Jamal Jackson,Male,Black,9,Machine Learning; Data Analysis
+Lakisha Washington,Female,Black,10,SQL; DevOps
+Lakisha Washington,Female,Black,6,Cloud; Python
+Maria Garcia,Female,Hispanic,7,DevOps; Data Analysis
+Emily Chen,Female,Asian,3,Machine Learning; Networking
+Emily Chen,Female,Asian,9,Python; React
+Emily Chen,Female,Asian,4,React; DevOps
+John Smith,Male,White,10,SQL; Networking
+Emily Chen,Female,Asian,1,SQL; Java
+Wei Zhang,Male,Asian,4,Java; SQL
+Carlos Martinez,Male,Hispanic,3,React; Python
+Lakisha Washington,Female,Black,4,SQL; Data Analysis
+Emily Chen,Female,Asian,9,Cloud; Machine Learning
+Maria Garcia,Female,Hispanic,9,Networking; Cybersecurity
+Emily Chen,Female,Asian,8,Machine Learning; Python
+Lakisha Washington,Female,Black,9,Networking; Java
+Maria Garcia,Female,Hispanic,2,SQL; DevOps
+John Smith,Male,White,8,DevOps; Machine Learning
+Carlos Martinez,Male,Hispanic,6,React; Java
+Emily Chen,Female,Asian,8,SQL; React
+Greg Johnson,Male,White,2,Data Analysis; Java
+Emily Chen,Female,Asian,1,Data Analysis; Networking
+Jamal Jackson,Male,Black,10,SQL; Cybersecurity
+Greg Johnson,Male,White,4,Machine Learning; React
+Jamal Jackson,Male,Black,9,Data Analysis; Cloud
+Greg Johnson,Male,White,3,Python; Machine Learning
+Emily Chen,Female,Asian,9,Python; DevOps
+Maria Garcia,Female,Hispanic,6,Cloud; DevOps
+Jamal Jackson,Male,Black,3,React; SQL
+Carlos Martinez,Male,Hispanic,2,React; Java
+Emily Chen,Female,Asian,10,Python; Cloud
+Lakisha Washington,Female,Black,6,Java; React
+Greg Johnson,Male,White,5,Java; Python
+Emily Chen,Female,Asian,5,Networking; Java
+Carlos Martinez,Male,Hispanic,4,React; Java
+Carlos Martinez,Male,Hispanic,8,Python; Data Analysis
+Maria Garcia,Female,Hispanic,9,Networking; Data Analysis
+Jamal Jackson,Male,Black,7,Data Analysis; Machine Learning
+Wei Zhang,Male,Asian,4,SQL; Data Analysis
+Emily Chen,Female,Asian,1,Networking; React
+Emily Chen,Female,Asian,8,Java; Data Analysis
+Greg Johnson,Male,White,9,Python; Networking
+John Smith,Male,White,6,SQL; Python
+Carlos Martinez,Male,Hispanic,6,Cybersecurity; Cloud
+Wei Zhang,Male,Asian,6,React; Cloud
+Maria Garcia,Female,Hispanic,3,DevOps; SQL
+John Smith,Male,White,4,React; Java
+Jamal Jackson,Male,Black,7,Python; Cybersecurity
+Wei Zhang,Male,Asian,7,DevOps; Cloud
+Wei Zhang,Male,Asian,2,Cloud; React
+Lakisha Washington,Female,Black,5,Networking; SQL
+Lakisha Washington,Female,Black,9,Networking; Data Analysis
+Greg Johnson,Male,White,9,Java; Machine Learning
+Maria Garcia,Female,Hispanic,1,Cloud; Networking
+Emily Chen,Female,Asian,9,Machine Learning; SQL
+Maria Garcia,Female,Hispanic,8,SQL; Python
+Lakisha Washington,Female,Black,4,Java; Data Analysis
+Carlos Martinez,Male,Hispanic,2,Cybersecurity; DevOps
+Greg Johnson,Male,White,1,Machine Learning; Cloud
+Jamal Jackson,Male,Black,5,Cloud; Python
+Carlos Martinez,Male,Hispanic,8,Machine Learning; Networking
+Maria Garcia,Female,Hispanic,9,Networking; Machine Learning
+Lakisha Washington,Female,Black,4,React; DevOps
+Maria Garcia,Female,Hispanic,2,SQL; Java
+Maria Garcia,Female,Hispanic,7,DevOps; Cybersecurity
+Lakisha Washington,Female,Black,6,React; DevOps
+Emily Chen,Female,Asian,9,Cybersecurity; Networking
+John Smith,Male,White,6,React; Python
+Emily Chen,Female,Asian,3,Cybersecurity; Data Analysis
+Carlos Martinez,Male,Hispanic,6,Java; Data Analysis
+Carlos Martinez,Male,Hispanic,10,React; Cybersecurity
+Lakisha Washington,Female,Black,9,Python; Java
+John Smith,Male,White,5,Networking; Machine Learning
+Maria Garcia,Female,Hispanic,2,Data Analysis; SQL
+Maria Garcia,Female,Hispanic,6,Machine Learning; DevOps
+Lakisha Washington,Female,Black,2,Cybersecurity; Networking
+Carlos Martinez,Male,Hispanic,5,React; Cybersecurity
+Carlos Martinez,Male,Hispanic,8,Data Analysis; Java
+Emily Chen,Female,Asian,9,Cybersecurity; React
+Carlos Martinez,Male,Hispanic,10,React; Networking
+Maria Garcia,Female,Hispanic,8,React; SQL
+Wei Zhang,Male,Asian,5,Cloud; Java
+Emily Chen,Female,Asian,10,Networking; Python
+Lakisha Washington,Female,Black,10,Java; Data Analysis
+Greg Johnson,Male,White,3,Data Analysis; Machine Learning
+Carlos Martinez,Male,Hispanic,10,Java; DevOps
+Wei Zhang,Male,Asian,4,SQL; React
+Emily Chen,Female,Asian,5,Data Analysis; Cloud
+Maria Garcia,Female,Hispanic,9,DevOps; Cybersecurity
+Wei Zhang,Male,Asian,2,Networking; Machine Learning
+John Smith,Male,White,6,React; Python
+Jamal Jackson,Male,Black,9,Machine Learning; Cybersecurity
+Greg Johnson,Male,White,7,Java; Networking
+Carlos Martinez,Male,Hispanic,5,Java; React
+Maria Garcia,Female,Hispanic,7,React; SQL
+Carlos Martinez,Male,Hispanic,7,Machine Learning; React
+John Smith,Male,White,10,Data Analysis; DevOps
+Emily Chen,Female,Asian,1,Python; SQL
+John Smith,Male,White,9,Data Analysis; Python
+Carlos Martinez,Male,Hispanic,5,React; Data Analysis
+Wei Zhang,Male,Asian,5,Cloud; SQL
+Jamal Jackson,Male,Black,2,Cybersecurity; Data Analysis
+Wei Zhang,Male,Asian,8,Java; Machine Learning
+Maria Garcia,Female,Hispanic,6,SQL; Data Analysis
+Lakisha Washington,Female,Black,4,React; Cloud
+Carlos Martinez,Male,Hispanic,1,Cloud; Cybersecurity
+Carlos Martinez,Male,Hispanic,10,Networking; Cybersecurity
+Carlos Martinez,Male,Hispanic,10,Data Analysis; DevOps
+John Smith,Male,White,7,Cybersecurity; Networking
+Wei Zhang,Male,Asian,2,SQL; Networking
+Greg Johnson,Male,White,6,Cybersecurity; Machine Learning
+Carlos Martinez,Male,Hispanic,4,Cloud; DevOps
+Maria Garcia,Female,Hispanic,2,SQL; DevOps
+John Smith,Male,White,9,Python; SQL
+John Smith,Male,White,5,Data Analysis; Networking
+Carlos Martinez,Male,Hispanic,7,Machine Learning; Java
+John Smith,Male,White,6,Data Analysis; Networking
+Maria Garcia,Female,Hispanic,9,DevOps; Networking
+Wei Zhang,Male,Asian,2,Cybersecurity; Cloud
+Carlos Martinez,Male,Hispanic,6,DevOps; SQL
+Wei Zhang,Male,Asian,1,Cybersecurity; DevOps
+John Smith,Male,White,5,DevOps; Java
+Maria Garcia,Female,Hispanic,9,SQL; React
+Wei Zhang,Male,Asian,4,Machine Learning; Networking
+Greg Johnson,Male,White,2,Python; React
+Lakisha Washington,Female,Black,3,Data Analysis; Java
+Lakisha Washington,Female,Black,9,Machine Learning; SQL
+John Smith,Male,White,7,Cybersecurity; SQL
+Greg Johnson,Male,White,7,Machine Learning; Java
+Lakisha Washington,Female,Black,3,SQL; Cloud
+Carlos Martinez,Male,Hispanic,6,Machine Learning; Cybersecurity
+Lakisha Washington,Female,Black,3,Java; Cybersecurity
+Carlos Martinez,Male,Hispanic,7,Python; Data Analysis
+Carlos Martinez,Male,Hispanic,9,Machine Learning; React
+John Smith,Male,White,1,Networking; Data Analysis
+Wei Zhang,Male,Asian,5,Java; Cloud
+Wei Zhang,Male,Asian,3,Java; Data Analysis
+Lakisha Washington,Female,Black,7,Networking; SQL
+Lakisha Washington,Female,Black,10,React; Python
+Carlos Martinez,Male,Hispanic,8,React; DevOps
+Lakisha Washington,Female,Black,6,Java; Cybersecurity
+Emily Chen,Female,Asian,10,Networking; Cloud
+Jamal Jackson,Male,Black,2,Java; Python
+Wei Zhang,Male,Asian,2,Cloud; Networking
+Lakisha Washington,Female,Black,3,Networking; Java
+Carlos Martinez,Male,Hispanic,8,Cybersecurity; DevOps
+Emily Chen,Female,Asian,4,Machine Learning; React
+Emily Chen,Female,Asian,4,Cloud; SQL
+Carlos Martinez,Male,Hispanic,8,Cybersecurity; Python
+Carlos Martinez,Male,Hispanic,3,Cybersecurity; React
+Jamal Jackson,Male,Black,7,DevOps; Java
+Lakisha Washington,Female,Black,9,Networking; Java
+Emily Chen,Female,Asian,5,Machine Learning; DevOps
+John Smith,Male,White,1,DevOps; Cloud
+Greg Johnson,Male,White,2,Data Analysis; Cloud
+Lakisha Washington,Female,Black,7,Java; Cybersecurity
+Wei Zhang,Male,Asian,4,Java; Networking
+Carlos Martinez,Male,Hispanic,5,SQL; Data Analysis
+Jamal Jackson,Male,Black,1,Networking; Cybersecurity
+Maria Garcia,Female,Hispanic,10,SQL; Cloud
+Wei Zhang,Male,Asian,3,Cybersecurity; React
+Wei Zhang,Male,Asian,3,DevOps; Cloud
+Carlos Martinez,Male,Hispanic,9,DevOps; SQL
+Wei Zhang,Male,Asian,5,Cybersecurity; React
+Wei Zhang,Male,Asian,4,Java; Python
+Wei Zhang,Male,Asian,9,SQL; Cybersecurity
+Maria Garcia,Female,Hispanic,5,Cybersecurity; React
+Lakisha Washington,Female,Black,4,Cybersecurity; SQL
+Jamal Jackson,Male,Black,3,Data Analysis; Python
+Greg Johnson,Male,White,7,Data Analysis; React
+Lakisha Washington,Female,Black,8,Python; React
+Greg Johnson,Male,White,5,Python; Data Analysis
+Emily Chen,Female,Asian,10,Cloud; SQL
+John Smith,Male,White,3,Networking; Java
+Emily Chen,Female,Asian,3,Java; React
+Jamal Jackson,Male,Black,9,Data Analysis; React
+Lakisha Washington,Female,Black,9,Python; React
+Carlos Martinez,Male,Hispanic,9,DevOps; Data Analysis
+Jamal Jackson,Male,Black,9,Java; Machine Learning
+Jamal Jackson,Male,Black,4,Cloud; Networking
+Jamal Jackson,Male,Black,3,Networking; Machine Learning
+Maria Garcia,Female,Hispanic,4,Cloud; Java
+Carlos Martinez,Male,Hispanic,4,Cloud; Networking
+John Smith,Male,White,2,DevOps; Python
+Greg Johnson,Male,White,8,Data Analysis; SQL
+John Smith,Male,White,7,Cybersecurity; SQL
+Wei Zhang,Male,Asian,8,Python; Networking
+John Smith,Male,White,6,SQL; DevOps
+Lakisha Washington,Female,Black,1,Java; DevOps
+Jamal Jackson,Male,Black,4,SQL; DevOps
+Greg Johnson,Male,White,4,React; DevOps
+Jamal Jackson,Male,Black,10,DevOps; Machine Learning
+Wei Zhang,Male,Asian,5,Machine Learning; Networking
+Lakisha Washington,Female,Black,7,DevOps; Networking
+John Smith,Male,White,2,Cloud; Machine Learning
+Greg Johnson,Male,White,1,Python; Networking
+Carlos Martinez,Male,Hispanic,1,SQL; Cybersecurity
+Carlos Martinez,Male,Hispanic,4,Cybersecurity; Java
+Carlos Martinez,Male,Hispanic,1,Cloud; Data Analysis
+Greg Johnson,Male,White,6,Cloud; React
+Wei Zhang,Male,Asian,5,Networking; Data Analysis
+Carlos Martinez,Male,Hispanic,9,Cloud; SQL
+Jamal Jackson,Male,Black,1,Networking; Java
+Maria Garcia,Female,Hispanic,2,Data Analysis; Machine Learning
+Lakisha Washington,Female,Black,6,Python; React
+Greg Johnson,Male,White,3,Machine Learning; Java
+John Smith,Male,White,6,Python; Networking
+Maria Garcia,Female,Hispanic,4,Cybersecurity; Machine Learning
+Emily Chen,Female,Asian,10,Java; SQL
+Greg Johnson,Male,White,7,React; DevOps
+Greg Johnson,Male,White,5,Machine Learning; Python
+Jamal Jackson,Male,Black,9,Data Analysis; DevOps
+Greg Johnson,Male,White,1,Java; SQL
+Carlos Martinez,Male,Hispanic,5,Machine Learning; DevOps
+Wei Zhang,Male,Asian,10,DevOps; Networking
+Maria Garcia,Female,Hispanic,2,Java; Machine Learning
+John Smith,Male,White,4,Python; Cloud
+Maria Garcia,Female,Hispanic,6,Cybersecurity; Java
+Wei Zhang,Male,Asian,1,Cloud; DevOps
+Jamal Jackson,Male,Black,5,Cloud; DevOps
+Jamal Jackson,Male,Black,8,Data Analysis; Machine Learning
+Maria Garcia,Female,Hispanic,3,Java; SQL
+Lakisha Washington,Female,Black,4,Data Analysis; React
+Maria Garcia,Female,Hispanic,1,React; DevOps
+Jamal Jackson,Male,Black,7,Machine Learning; Java
+Jamal Jackson,Male,Black,3,Machine Learning; React
+Carlos Martinez,Male,Hispanic,7,Cloud; Java
+John Smith,Male,White,5,Machine Learning; Networking
+Wei Zhang,Male,Asian,9,Networking; Cloud
+Lakisha Washington,Female,Black,8,DevOps; Java
+Emily Chen,Female,Asian,10,Data Analysis; Python
+Carlos Martinez,Male,Hispanic,4,Networking; Machine Learning
+Maria Garcia,Female,Hispanic,6,Java; SQL
+Lakisha Washington,Female,Black,7,Data Analysis; Java
+Carlos Martinez,Male,Hispanic,2,Machine Learning; Cloud
+Greg Johnson,Male,White,4,Python; Data Analysis
+Carlos Martinez,Male,Hispanic,3,DevOps; Cybersecurity
+Lakisha Washington,Female,Black,10,SQL; React
+Wei Zhang,Male,Asian,5,Networking; DevOps
+Greg Johnson,Male,White,10,SQL; Java
+Maria Garcia,Female,Hispanic,5,SQL; Machine Learning
+Jamal Jackson,Male,Black,5,React; Data Analysis
+Wei Zhang,Male,Asian,10,Python; Data Analysis
+Wei Zhang,Male,Asian,8,Networking; React
+Wei Zhang,Male,Asian,10,Java; Machine Learning
+Lakisha Washington,Female,Black,6,DevOps; Data Analysis
+Greg Johnson,Male,White,10,Networking; Machine Learning
+Wei Zhang,Male,Asian,8,DevOps; Cloud
+Carlos Martinez,Male,Hispanic,7,DevOps; React
+Maria Garcia,Female,Hispanic,8,Networking; Machine Learning
+Wei Zhang,Male,Asian,2,Java; Data Analysis
+Carlos Martinez,Male,Hispanic,4,Networking; Java
+Greg Johnson,Male,White,8,Machine Learning; React
+John Smith,Male,White,3,DevOps; Java
+Wei Zhang,Male,Asian,8,Data Analysis; Python
+Jamal Jackson,Male,Black,7,Data Analysis; Python
+Greg Johnson,Male,White,3,DevOps; Cybersecurity
+John Smith,Male,White,5,Java; Networking
+Lakisha Washington,Female,Black,4,DevOps; Python
+Emily Chen,Female,Asian,1,Python; Cybersecurity
+Wei Zhang,Male,Asian,2,Cybersecurity; Python
+John Smith,Male,White,6,Cloud; Java
+Jamal Jackson,Male,Black,2,Java; Networking
+Emily Chen,Female,Asian,3,SQL; Machine Learning
+Maria Garcia,Female,Hispanic,5,Machine Learning; DevOps
+Jamal Jackson,Male,Black,6,Machine Learning; Networking
+Wei Zhang,Male,Asian,7,Python; Cloud
+Greg Johnson,Male,White,6,Cybersecurity; Python
+Wei Zhang,Male,Asian,8,Networking; Data Analysis
+John Smith,Male,White,9,Networking; Machine Learning
+Greg Johnson,Male,White,5,Data Analysis; SQL
+Maria Garcia,Female,Hispanic,2,Networking; Cloud
+Maria Garcia,Female,Hispanic,6,React; Java
+Wei Zhang,Male,Asian,1,Data Analysis; DevOps
+Lakisha Washington,Female,Black,2,SQL; Machine Learning
+Maria Garcia,Female,Hispanic,7,Networking; Cybersecurity
+Jamal Jackson,Male,Black,9,React; Java
+Lakisha Washington,Female,Black,4,Networking; SQL
+Jamal Jackson,Male,Black,1,Cybersecurity; Python
+John Smith,Male,White,10,SQL; Java
+John Smith,Male,White,8,Networking; React
+Carlos Martinez,Male,Hispanic,10,Cloud; Machine Learning
+John Smith,Male,White,5,DevOps; Java
+Wei Zhang,Male,Asian,3,Networking; Data Analysis
+John Smith,Male,White,5,React; DevOps
+Emily Chen,Female,Asian,3,Data Analysis; Cloud
+Maria Garcia,Female,Hispanic,3,Cybersecurity; Cloud
+Carlos Martinez,Male,Hispanic,4,Cloud; DevOps
+Maria Garcia,Female,Hispanic,3,Networking; DevOps
+Greg Johnson,Male,White,9,Python; DevOps
+John Smith,Male,White,5,Networking; DevOps
+John Smith,Male,White,6,SQL; Java
+Carlos Martinez,Male,Hispanic,1,Python; Cybersecurity
+Emily Chen,Female,Asian,10,Python; DevOps
+Greg Johnson,Male,White,7,SQL; Python
+Wei Zhang,Male,Asian,5,Java; Machine Learning
+Emily Chen,Female,Asian,7,Python; Machine Learning
+Carlos Martinez,Male,Hispanic,9,Networking; Machine Learning
+Maria Garcia,Female,Hispanic,9,DevOps; Cloud
+Jamal Jackson,Male,Black,6,Cybersecurity; DevOps
+John Smith,Male,White,7,Cybersecurity; Cloud
+Jamal Jackson,Male,Black,6,Data Analysis; SQL
+Maria Garcia,Female,Hispanic,10,SQL; Cloud
+John Smith,Male,White,2,Machine Learning; Data Analysis
+Greg Johnson,Male,White,8,SQL; Machine Learning
+Wei Zhang,Male,Asian,4,Cloud; Machine Learning
+Wei Zhang,Male,Asian,4,Cloud; React
+Lakisha Washington,Female,Black,4,Cybersecurity; Networking
+Jamal Jackson,Male,Black,8,SQL; Cybersecurity
+Jamal Jackson,Male,Black,2,React; DevOps
+John Smith,Male,White,6,Cloud; DevOps
+Jamal Jackson,Male,Black,8,Java; Networking
+Greg Johnson,Male,White,5,Cloud; Cybersecurity
+Carlos Martinez,Male,Hispanic,5,Java; React
+Wei Zhang,Male,Asian,8,Java; Data Analysis
+John Smith,Male,White,5,Data Analysis; DevOps
+Emily Chen,Female,Asian,8,Cloud; Networking
+Emily Chen,Female,Asian,9,Cybersecurity; Python
+Greg Johnson,Male,White,1,DevOps; Java
+Greg Johnson,Male,White,4,DevOps; Machine Learning
+Carlos Martinez,Male,Hispanic,4,Java; SQL
+Greg Johnson,Male,White,1,Python; React
+Maria Garcia,Female,Hispanic,4,Python; Machine Learning
+Wei Zhang,Male,Asian,8,Java; Data Analysis
+Wei Zhang,Male,Asian,5,DevOps; Java
+Emily Chen,Female,Asian,6,Python; Machine Learning
+Wei Zhang,Male,Asian,3,Java; DevOps
+Maria Garcia,Female,Hispanic,2,Networking; DevOps
+Emily Chen,Female,Asian,4,Networking; Machine Learning
+Carlos Martinez,Male,Hispanic,5,DevOps; Java
+Lakisha Washington,Female,Black,6,SQL; Cloud
+Greg Johnson,Male,White,1,DevOps; Python
+Emily Chen,Female,Asian,9,Data Analysis; SQL
+Greg Johnson,Male,White,7,Networking; Machine Learning
+Greg Johnson,Male,White,1,Machine Learning; SQL
+Carlos Martinez,Male,Hispanic,4,Python; Cloud
+Jamal Jackson,Male,Black,2,Java; React
+Wei Zhang,Male,Asian,6,Python; DevOps
+Greg Johnson,Male,White,4,Networking; Java
+Jamal Jackson,Male,Black,9,Python; DevOps
+Maria Garcia,Female,Hispanic,8,Cloud; DevOps
+Lakisha Washington,Female,Black,2,Cybersecurity; DevOps
+Greg Johnson,Male,White,3,SQL; Machine Learning
+Emily Chen,Female,Asian,10,React; Machine Learning
+Lakisha Washington,Female,Black,2,Java; Data Analysis
+John Smith,Male,White,10,Python; DevOps
+Maria Garcia,Female,Hispanic,7,Java; React
+Carlos Martinez,Male,Hispanic,5,SQL; Python
+Emily Chen,Female,Asian,8,Cloud; DevOps
+Maria Garcia,Female,Hispanic,6,Networking; Java
+Carlos Martinez,Male,Hispanic,1,Python; Cybersecurity
+John Smith,Male,White,8,Machine Learning; Java
+John Smith,Male,White,4,Java; Networking
+Carlos Martinez,Male,Hispanic,4,Machine Learning; SQL
+Lakisha Washington,Female,Black,5,React; Cybersecurity
+Emily Chen,Female,Asian,5,Machine Learning; SQL
+Wei Zhang,Male,Asian,6,SQL; Cybersecurity
+Carlos Martinez,Male,Hispanic,5,Java; SQL
+Maria Garcia,Female,Hispanic,8,SQL; Python
+Jamal Jackson,Male,Black,7,DevOps; Cybersecurity
+John Smith,Male,White,1,Java; Machine Learning
+Greg Johnson,Male,White,7,Cloud; Java
+Lakisha Washington,Female,Black,1,Networking; React
+Wei Zhang,Male,Asian,7,Cloud; DevOps
+Wei Zhang,Male,Asian,5,React; SQL
+Emily Chen,Female,Asian,5,Python; Networking
+Emily Chen,Female,Asian,4,React; SQL
+John Smith,Male,White,1,Java; DevOps
+Maria Garcia,Female,Hispanic,4,Data Analysis; Cybersecurity
+Emily Chen,Female,Asian,7,Networking; DevOps
+Greg Johnson,Male,White,2,Machine Learning; Cloud
+Greg Johnson,Male,White,1,DevOps; Machine Learning
+Carlos Martinez,Male,Hispanic,2,DevOps; Cybersecurity
+Greg Johnson,Male,White,1,Networking; DevOps
+Greg Johnson,Male,White,10,Java; Cloud
+Wei Zhang,Male,Asian,6,Cloud; Cybersecurity
+Maria Garcia,Female,Hispanic,10,Networking; Java
+Lakisha Washington,Female,Black,9,Machine Learning; Python
+Lakisha Washington,Female,Black,7,Machine Learning; Cloud
+Lakisha Washington,Female,Black,10,Machine Learning; React
+Emily Chen,Female,Asian,7,Machine Learning; Data Analysis
+Maria Garcia,Female,Hispanic,4,SQL; React
+Emily Chen,Female,Asian,5,Python; Cybersecurity
+Jamal Jackson,Male,Black,8,React; Cybersecurity
+Maria Garcia,Female,Hispanic,5,Java; SQL
+Jamal Jackson,Male,Black,6,Networking; Cybersecurity
+John Smith,Male,White,3,Java; DevOps
+Greg Johnson,Male,White,2,React; DevOps
+Carlos Martinez,Male,Hispanic,5,React; Data Analysis
+John Smith,Male,White,3,Java; Cloud
+Wei Zhang,Male,Asian,9,Python; SQL
+Emily Chen,Female,Asian,2,Machine Learning; Cybersecurity
+Carlos Martinez,Male,Hispanic,8,SQL; Machine Learning
+Emily Chen,Female,Asian,5,DevOps; React
+Jamal Jackson,Male,Black,1,React; Data Analysis
+John Smith,Male,White,3,React; SQL
+Wei Zhang,Male,Asian,1,Python; DevOps
+Jamal Jackson,Male,Black,3,Cybersecurity; React
+Maria Garcia,Female,Hispanic,10,React; Python
+Maria Garcia,Female,Hispanic,4,Cybersecurity; React
+Lakisha Washington,Female,Black,8,Java; Data Analysis
+John Smith,Male,White,9,Data Analysis; React
+Maria Garcia,Female,Hispanic,7,React; Networking
+Jamal Jackson,Male,Black,9,Cybersecurity; Networking
+Greg Johnson,Male,White,8,Cybersecurity; Machine Learning
+Maria Garcia,Female,Hispanic,10,Data Analysis; Cloud
+Emily Chen,Female,Asian,10,Python; Cloud
+John Smith,Male,White,7,Machine Learning; Java
+Maria Garcia,Female,Hispanic,4,SQL; Java
+Greg Johnson,Male,White,4,Python; Networking
+Carlos Martinez,Male,Hispanic,6,Cloud; React
+Emily Chen,Female,Asian,3,DevOps; Machine Learning
+Wei Zhang,Male,Asian,3,Cloud; React
+Carlos Martinez,Male,Hispanic,5,React; Java
+Wei Zhang,Male,Asian,6,DevOps; Cloud
+Carlos Martinez,Male,Hispanic,2,Data Analysis; React
+Maria Garcia,Female,Hispanic,5,Python; Networking
+John Smith,Male,White,10,DevOps; Machine Learning
+Maria Garcia,Female,Hispanic,1,Data Analysis; SQL
+John Smith,Male,White,2,Cybersecurity; Cloud
+Maria Garcia,Female,Hispanic,6,Cloud; React
+Lakisha Washington,Female,Black,4,React; Networking
+John Smith,Male,White,10,Data Analysis; Cybersecurity
+Emily Chen,Female,Asian,4,Networking; Machine Learning
+Greg Johnson,Male,White,1,Machine Learning; Java
+Jamal Jackson,Male,Black,1,Data Analysis; Java
+Maria Garcia,Female,Hispanic,6,Cybersecurity; React
+Lakisha Washington,Female,Black,5,Cloud; Cybersecurity
+Greg Johnson,Male,White,1,SQL; Networking
+Jamal Jackson,Male,Black,10,Cybersecurity; Cloud
+Emily Chen,Female,Asian,1,Networking; Data Analysis
+Jamal Jackson,Male,Black,10,Machine Learning; Data Analysis
+Maria Garcia,Female,Hispanic,8,React; Machine Learning
+Lakisha Washington,Female,Black,4,Machine Learning; DevOps
+Jamal Jackson,Male,Black,9,Cloud; Python
+Jamal Jackson,Male,Black,1,SQL; Cloud
+Carlos Martinez,Male,Hispanic,4,Cloud; Java
+Greg Johnson,Male,White,10,Cloud; React
+Lakisha Washington,Female,Black,5,Machine Learning; Python
+Greg Johnson,Male,White,8,React; SQL
+Wei Zhang,Male,Asian,6,Networking; Python
+Greg Johnson,Male,White,1,Networking; DevOps
+Jamal Jackson,Male,Black,8,Java; Python
+Jamal Jackson,Male,Black,10,Cybersecurity; DevOps
+Wei Zhang,Male,Asian,9,Cybersecurity; DevOps
+John Smith,Male,White,10,Networking; Cloud
+Lakisha Washington,Female,Black,10,Data Analysis; Cybersecurity
+Maria Garcia,Female,Hispanic,1,Cybersecurity; Networking
+Carlos Martinez,Male,Hispanic,5,Cybersecurity; DevOps
+John Smith,Male,White,9,Machine Learning; DevOps
+Maria Garcia,Female,Hispanic,3,Cloud; Networking
+Jamal Jackson,Male,Black,1,Cybersecurity; Python
+Wei Zhang,Male,Asian,7,Python; DevOps
+John Smith,Male,White,7,Networking; Machine Learning
+Jamal Jackson,Male,Black,9,Machine Learning; Cybersecurity
+Carlos Martinez,Male,Hispanic,7,Cybersecurity; SQL
+Greg Johnson,Male,White,5,Machine Learning; Python
+Wei Zhang,Male,Asian,6,SQL; React
+Wei Zhang,Male,Asian,5,DevOps; SQL
+Wei Zhang,Male,Asian,3,Cloud; Cybersecurity
+Carlos Martinez,Male,Hispanic,4,Machine Learning; SQL
+Greg Johnson,Male,White,7,Networking; Java
+Maria Garcia,Female,Hispanic,4,Cloud; Machine Learning
+Jamal Jackson,Male,Black,1,Cloud; DevOps
+Lakisha Washington,Female,Black,4,Networking; Data Analysis
+Wei Zhang,Male,Asian,2,Networking; Machine Learning
+John Smith,Male,White,9,DevOps; SQL
+Lakisha Washington,Female,Black,6,Machine Learning; Cloud
+Wei Zhang,Male,Asian,2,Cybersecurity; SQL
+Lakisha Washington,Female,Black,3,Python; Cybersecurity
+Maria Garcia,Female,Hispanic,2,Data Analysis; React
+Emily Chen,Female,Asian,9,DevOps; Cybersecurity
+Carlos Martinez,Male,Hispanic,6,Python; Cybersecurity
+Carlos Martinez,Male,Hispanic,3,DevOps; SQL
+Carlos Martinez,Male,Hispanic,1,Cybersecurity; Data Analysis
+Wei Zhang,Male,Asian,2,Networking; SQL
+Lakisha Washington,Female,Black,7,Python; Networking
+Emily Chen,Female,Asian,3,Cybersecurity; Data Analysis
+Wei Zhang,Male,Asian,8,DevOps; Networking
+Emily Chen,Female,Asian,5,DevOps; Java
+Lakisha Washington,Female,Black,1,Machine Learning; SQL
+Wei Zhang,Male,Asian,8,DevOps; Cloud
+Jamal Jackson,Male,Black,8,Data Analysis; React
+Wei Zhang,Male,Asian,10,Data Analysis; Machine Learning
+Greg Johnson,Male,White,8,Cloud; SQL
+Greg Johnson,Male,White,2,Cybersecurity; Networking
+Wei Zhang,Male,Asian,5,Python; Java
+Wei Zhang,Male,Asian,9,Cybersecurity; Python
+Jamal Jackson,Male,Black,10,Cloud; React
+Jamal Jackson,Male,Black,2,Cloud; Networking
+Carlos Martinez,Male,Hispanic,8,Machine Learning; Java
+Wei Zhang,Male,Asian,5,React; Machine Learning
+Maria Garcia,Female,Hispanic,9,Data Analysis; Cloud
+Jamal Jackson,Male,Black,4,SQL; DevOps
+Greg Johnson,Male,White,9,SQL; Java
+Wei Zhang,Male,Asian,4,Data Analysis; Cybersecurity
+Emily Chen,Female,Asian,10,DevOps; React
+Jamal Jackson,Male,Black,6,Python; Java
+John Smith,Male,White,6,Java; React
+Lakisha Washington,Female,Black,9,SQL; Cybersecurity
+Wei Zhang,Male,Asian,9,Java; DevOps
+Carlos Martinez,Male,Hispanic,1,Java; Data Analysis
+Wei Zhang,Male,Asian,7,React; Networking
+Wei Zhang,Male,Asian,9,SQL; React
+Greg Johnson,Male,White,1,React; Cybersecurity
+Lakisha Washington,Female,Black,10,DevOps; React
+Wei Zhang,Male,Asian,6,Java; Python
+Emily Chen,Female,Asian,2,React; DevOps
+Maria Garcia,Female,Hispanic,7,Data Analysis; Java
+Maria Garcia,Female,Hispanic,4,Data Analysis; Python
+Lakisha Washington,Female,Black,2,Python; DevOps
+Jamal Jackson,Male,Black,3,Cloud; SQL
+Maria Garcia,Female,Hispanic,9,Python; Cloud
+Jamal Jackson,Male,Black,5,Networking; Python
+Greg Johnson,Male,White,5,Networking; Python
+Maria Garcia,Female,Hispanic,9,React; SQL
+Emily Chen,Female,Asian,3,Python; Networking
+Jamal Jackson,Male,Black,9,Cloud; DevOps
+Maria Garcia,Female,Hispanic,9,SQL; Machine Learning
+Maria Garcia,Female,Hispanic,6,Data Analysis; Python
+John Smith,Male,White,6,Java; Machine Learning
+Carlos Martinez,Male,Hispanic,3,Networking; Cloud
+Emily Chen,Female,Asian,2,DevOps; Machine Learning
+Lakisha Washington,Female,Black,5,Python; Cloud
+Wei Zhang,Male,Asian,5,DevOps; Data Analysis
+Maria Garcia,Female,Hispanic,10,DevOps; SQL
+Carlos Martinez,Male,Hispanic,3,DevOps; Java
+Emily Chen,Female,Asian,6,Cloud; Data Analysis
+Wei Zhang,Male,Asian,2,DevOps; Python
+Emily Chen,Female,Asian,7,DevOps; React
+Jamal Jackson,Male,Black,1,SQL; React
+Lakisha Washington,Female,Black,3,SQL; Cloud
+Lakisha Washington,Female,Black,2,Cloud; SQL
+Wei Zhang,Male,Asian,10,Cybersecurity; Cloud
+Wei Zhang,Male,Asian,8,React; Cybersecurity
+Wei Zhang,Male,Asian,2,React; Machine Learning
+Emily Chen,Female,Asian,4,Data Analysis; Java
+Emily Chen,Female,Asian,2,Python; Data Analysis
+Maria Garcia,Female,Hispanic,7,Networking; DevOps
+Jamal Jackson,Male,Black,6,Cloud; DevOps
+John Smith,Male,White,2,Cybersecurity; Python
+Carlos Martinez,Male,Hispanic,1,Java; Cybersecurity
+Jamal Jackson,Male,Black,10,Cloud; React
+John Smith,Male,White,5,Python; Machine Learning
+Jamal Jackson,Male,Black,6,Data Analysis; React
+Carlos Martinez,Male,Hispanic,7,Data Analysis; Python
+Emily Chen,Female,Asian,4,Cybersecurity; Machine Learning
+Wei Zhang,Male,Asian,8,React; SQL
+Wei Zhang,Male,Asian,10,Java; Data Analysis
+Maria Garcia,Female,Hispanic,4,Cloud; DevOps
+John Smith,Male,White,10,DevOps; SQL
+Carlos Martinez,Male,Hispanic,9,Cloud; Data Analysis
+Jamal Jackson,Male,Black,9,Machine Learning; Networking
+Jamal Jackson,Male,Black,2,Cybersecurity; Networking
+John Smith,Male,White,5,Machine Learning; Networking
+Lakisha Washington,Female,Black,8,Cloud; Data Analysis
+Lakisha Washington,Female,Black,9,React; DevOps
+Carlos Martinez,Male,Hispanic,10,Cybersecurity; Cloud
+Maria Garcia,Female,Hispanic,8,SQL; Networking
+Emily Chen,Female,Asian,8,Java; Cybersecurity
+John Smith,Male,White,6,Machine Learning; Networking
+Maria Garcia,Female,Hispanic,5,React; Networking
+Jamal Jackson,Male,Black,3,Java; Cybersecurity
+John Smith,Male,White,2,React; Cloud
+Wei Zhang,Male,Asian,3,DevOps; Cybersecurity
+Wei Zhang,Male,Asian,9,Machine Learning; Data Analysis
+Maria Garcia,Female,Hispanic,6,SQL; Networking
+Jamal Jackson,Male,Black,3,Python; Java
+Carlos Martinez,Male,Hispanic,4,Data Analysis; Cybersecurity
+Lakisha Washington,Female,Black,5,SQL; Data Analysis
+Jamal Jackson,Male,Black,2,DevOps; Machine Learning
+Greg Johnson,Male,White,8,Java; SQL
+Emily Chen,Female,Asian,5,Cloud; Java
+John Smith,Male,White,9,Machine Learning; React
+Emily Chen,Female,Asian,1,DevOps; Machine Learning
+Wei Zhang,Male,Asian,1,Python; Networking
+Wei Zhang,Male,Asian,1,Cybersecurity; Java
+Wei Zhang,Male,Asian,7,Machine Learning; DevOps
+John Smith,Male,White,8,Data Analysis; Networking
+Emily Chen,Female,Asian,7,React; Cloud
+Carlos Martinez,Male,Hispanic,8,Data Analysis; React
+Maria Garcia,Female,Hispanic,2,Cloud; React
+Maria Garcia,Female,Hispanic,10,Python; Networking
+Emily Chen,Female,Asian,2,Machine Learning; DevOps
+John Smith,Male,White,8,Cybersecurity; Machine Learning
+John Smith,Male,White,6,SQL; Networking
+Lakisha Washington,Female,Black,7,Cybersecurity; Python
+Emily Chen,Female,Asian,9,Cybersecurity; React
+John Smith,Male,White,8,Cloud; Java
+Carlos Martinez,Male,Hispanic,9,Machine Learning; Python
+Emily Chen,Female,Asian,9,Cloud; SQL
+Jamal Jackson,Male,Black,10,Machine Learning; Cloud
+Carlos Martinez,Male,Hispanic,10,Cybersecurity; Cloud
+Emily Chen,Female,Asian,1,Python; Java
+Greg Johnson,Male,White,6,Machine Learning; React
+Greg Johnson,Male,White,5,React; DevOps
+John Smith,Male,White,1,Python; Data Analysis
+Lakisha Washington,Female,Black,8,Java; Data Analysis
+Wei Zhang,Male,Asian,4,Networking; Machine Learning
+Greg Johnson,Male,White,2,React; Networking
+Carlos Martinez,Male,Hispanic,9,Machine Learning; React
+Maria Garcia,Female,Hispanic,3,Networking; Cybersecurity
+Jamal Jackson,Male,Black,5,Python; Machine Learning
+John Smith,Male,White,1,React; Cybersecurity
+Wei Zhang,Male,Asian,7,DevOps; Networking
+Jamal Jackson,Male,Black,4,Python; Cloud
+Maria Garcia,Female,Hispanic,8,React; Java
+Wei Zhang,Male,Asian,7,SQL; Data Analysis
+Lakisha Washington,Female,Black,4,Machine Learning; DevOps
+Wei Zhang,Male,Asian,3,DevOps; React
+Jamal Jackson,Male,Black,2,Networking; React
+Greg Johnson,Male,White,3,SQL; Python
+Greg Johnson,Male,White,10,Networking; Machine Learning
+Greg Johnson,Male,White,3,DevOps; Networking
+Maria Garcia,Female,Hispanic,4,Java; Cybersecurity
+Emily Chen,Female,Asian,6,DevOps; Cloud
+Jamal Jackson,Male,Black,4,Java; Networking
+Greg Johnson,Male,White,6,Python; Data Analysis
+Greg Johnson,Male,White,6,DevOps; Java
+John Smith,Male,White,7,Cybersecurity; Java
+Jamal Jackson,Male,Black,9,Data Analysis; SQL
+John Smith,Male,White,2,SQL; Python
+Wei Zhang,Male,Asian,10,Python; Cybersecurity
+Greg Johnson,Male,White,4,Machine Learning; Cybersecurity
+Carlos Martinez,Male,Hispanic,3,Cybersecurity; Java
+Maria Garcia,Female,Hispanic,7,Networking; Cybersecurity
+Greg Johnson,Male,White,10,DevOps; Networking
+Jamal Jackson,Male,Black,9,Networking; Cloud
+John Smith,Male,White,8,Networking; SQL
+John Smith,Male,White,9,Python; Java
+Emily Chen,Female,Asian,8,Cloud; Machine Learning
+Greg Johnson,Male,White,8,React; DevOps
+Maria Garcia,Female,Hispanic,9,React; Java
+John Smith,Male,White,8,Python; Machine Learning
+Maria Garcia,Female,Hispanic,2,Python; Data Analysis
+Greg Johnson,Male,White,1,Python; React
+Wei Zhang,Male,Asian,2,React; Networking
+Wei Zhang,Male,Asian,3,Cloud; React
+Carlos Martinez,Male,Hispanic,8,Networking; Machine Learning
+Greg Johnson,Male,White,8,Cybersecurity; Java
+Emily Chen,Female,Asian,5,DevOps; SQL
+Emily Chen,Female,Asian,7,Python; Machine Learning
+Wei Zhang,Male,Asian,5,Cloud; Networking
+Jamal Jackson,Male,Black,1,DevOps; Python
+Emily Chen,Female,Asian,6,Data Analysis; Cloud
+Emily Chen,Female,Asian,1,Cloud; Cybersecurity
+Jamal Jackson,Male,Black,5,SQL; Java
+Lakisha Washington,Female,Black,7,Java; SQL
+Jamal Jackson,Male,Black,3,Java; SQL
+Emily Chen,Female,Asian,8,Data Analysis; Machine Learning
+Carlos Martinez,Male,Hispanic,1,DevOps; Python
+Carlos Martinez,Male,Hispanic,7,DevOps; Cloud
+Wei Zhang,Male,Asian,9,React; Cybersecurity
+Greg Johnson,Male,White,10,DevOps; Data Analysis
+John Smith,Male,White,5,Data Analysis; Networking
+Greg Johnson,Male,White,8,React; Python
+John Smith,Male,White,7,Python; SQL
+Maria Garcia,Female,Hispanic,1,DevOps; Cloud
+Lakisha Washington,Female,Black,3,Python; Cybersecurity
+Jamal Jackson,Male,Black,4,DevOps; SQL
+Emily Chen,Female,Asian,9,Python; SQL
+Maria Garcia,Female,Hispanic,1,Data Analysis; Networking
+Lakisha Washington,Female,Black,3,Java; Cybersecurity
+Greg Johnson,Male,White,8,Python; SQL
+Carlos Martinez,Male,Hispanic,8,Python; Data Analysis
+Jamal Jackson,Male,Black,3,Cybersecurity; Data Analysis
+Emily Chen,Female,Asian,8,Cybersecurity; Python
+Greg Johnson,Male,White,2,DevOps; Data Analysis
+Lakisha Washington,Female,Black,4,Data Analysis; DevOps
+Wei Zhang,Male,Asian,5,Networking; Machine Learning
+Emily Chen,Female,Asian,10,SQL; Java
+Maria Garcia,Female,Hispanic,5,Python; DevOps
+Carlos Martinez,Male,Hispanic,7,Java; Cloud
+Carlos Martinez,Male,Hispanic,10,Data Analysis; Cloud
+Lakisha Washington,Female,Black,6,Python; Data Analysis
+Lakisha Washington,Female,Black,2,Python; React
+Maria Garcia,Female,Hispanic,3,Data Analysis; Machine Learning
+Emily Chen,Female,Asian,9,Data Analysis; Python
+John Smith,Male,White,6,Data Analysis; React
+John Smith,Male,White,7,Cybersecurity; Cloud
+Greg Johnson,Male,White,7,Java; Python
+Lakisha Washington,Female,Black,8,SQL; DevOps
+Carlos Martinez,Male,Hispanic,9,Networking; SQL
+Greg Johnson,Male,White,3,DevOps; Cloud
+Maria Garcia,Female,Hispanic,10,Python; DevOps
+Greg Johnson,Male,White,9,Data Analysis; SQL
+John Smith,Male,White,8,React; SQL
+Lakisha Washington,Female,Black,7,Data Analysis; Cloud
+Wei Zhang,Male,Asian,7,Java; Data Analysis
+Carlos Martinez,Male,Hispanic,4,Machine Learning; SQL
+Jamal Jackson,Male,Black,9,Python; Java
+Wei Zhang,Male,Asian,4,Java; Data Analysis
+John Smith,Male,White,5,DevOps; Cloud
+Carlos Martinez,Male,Hispanic,6,React; Data Analysis
+John Smith,Male,White,6,Cybersecurity; DevOps
+Maria Garcia,Female,Hispanic,1,Python; Cybersecurity
+Carlos Martinez,Male,Hispanic,10,Python; Networking
+John Smith,Male,White,7,Networking; Machine Learning
+Lakisha Washington,Female,Black,1,Cloud; Python
+John Smith,Male,White,7,DevOps; Cloud
+Maria Garcia,Female,Hispanic,4,DevOps; Machine Learning
+Emily Chen,Female,Asian,9,Data Analysis; Networking
+Emily Chen,Female,Asian,1,Data Analysis; Cloud
+Emily Chen,Female,Asian,4,Data Analysis; Python
+Maria Garcia,Female,Hispanic,5,SQL; Cybersecurity
+Lakisha Washington,Female,Black,9,SQL; Cloud
+Greg Johnson,Male,White,1,Machine Learning; Cloud
+Greg Johnson,Male,White,3,Cloud; DevOps
+Lakisha Washington,Female,Black,4,Python; DevOps
+Lakisha Washington,Female,Black,8,DevOps; Python
+Jamal Jackson,Male,Black,1,Cybersecurity; Machine Learning
+Emily Chen,Female,Asian,8,Python; Machine Learning
+Maria Garcia,Female,Hispanic,9,React; SQL
+Carlos Martinez,Male,Hispanic,9,Python; Machine Learning
+Lakisha Washington,Female,Black,2,Cybersecurity; SQL
+Maria Garcia,Female,Hispanic,8,Cloud; DevOps
+Emily Chen,Female,Asian,8,DevOps; Java
+Greg Johnson,Male,White,4,React; Data Analysis
+Greg Johnson,Male,White,2,Cybersecurity; Machine Learning
+Jamal Jackson,Male,Black,6,Python; DevOps
+Wei Zhang,Male,Asian,1,Java; Machine Learning
+John Smith,Male,White,3,Python; React
+Jamal Jackson,Male,Black,8,Machine Learning; Cloud
+Emily Chen,Female,Asian,4,Cybersecurity; React
+Greg Johnson,Male,White,7,DevOps; SQL
+John Smith,Male,White,5,Python; Cybersecurity
+Jamal Jackson,Male,Black,6,SQL; Data Analysis
+Wei Zhang,Male,Asian,9,Data Analysis; React
+Wei Zhang,Male,Asian,6,Cloud; SQL
+Wei Zhang,Male,Asian,8,Machine Learning; SQL
+Carlos Martinez,Male,Hispanic,8,SQL; React
+John Smith,Male,White,9,Java; DevOps
+Carlos Martinez,Male,Hispanic,10,Cybersecurity; DevOps
+Emily Chen,Female,Asian,2,React; DevOps
+Maria Garcia,Female,Hispanic,7,DevOps; Python
+Wei Zhang,Male,Asian,7,React; SQL
+Greg Johnson,Male,White,7,Data Analysis; Machine Learning
+Jamal Jackson,Male,Black,6,Python; DevOps
+Carlos Martinez,Male,Hispanic,7,Networking; Cybersecurity
+Lakisha Washington,Female,Black,10,SQL; Machine Learning
+Wei Zhang,Male,Asian,8,Networking; Cloud
+Maria Garcia,Female,Hispanic,9,Cloud; Python
+Emily Chen,Female,Asian,7,SQL; Cloud
+Lakisha Washington,Female,Black,4,Python; Java
+Wei Zhang,Male,Asian,3,DevOps; Cybersecurity
+Wei Zhang,Male,Asian,5,Cybersecurity; DevOps
+John Smith,Male,White,3,Networking; Data Analysis
+Greg Johnson,Male,White,5,Java; Cybersecurity
+Emily Chen,Female,Asian,2,Networking; DevOps
+John Smith,Male,White,2,React; Machine Learning
+Jamal Jackson,Male,Black,7,Cybersecurity; SQL
+Carlos Martinez,Male,Hispanic,10,Networking; Cybersecurity
+Carlos Martinez,Male,Hispanic,2,SQL; Data Analysis
+John Smith,Male,White,5,Networking; DevOps
+Emily Chen,Female,Asian,1,DevOps; Cybersecurity
+Jamal Jackson,Male,Black,4,Python; Java
+Wei Zhang,Male,Asian,6,Python; React
+Wei Zhang,Male,Asian,2,SQL; React
+Carlos Martinez,Male,Hispanic,3,Cloud; Machine Learning
+Maria Garcia,Female,Hispanic,2,Networking; React
+Carlos Martinez,Male,Hispanic,5,Data Analysis; SQL
+Greg Johnson,Male,White,3,Cybersecurity; React
+Wei Zhang,Male,Asian,7,SQL; DevOps
+Greg Johnson,Male,White,2,Cloud; Python
+John Smith,Male,White,6,React; DevOps
+John Smith,Male,White,8,Java; DevOps
+John Smith,Male,White,7,Networking; Cybersecurity
+Maria Garcia,Female,Hispanic,10,Python; Networking
+Emily Chen,Female,Asian,4,React; Machine Learning
+Greg Johnson,Male,White,6,Cloud; DevOps
+Lakisha Washington,Female,Black,5,Data Analysis; Cloud
+Maria Garcia,Female,Hispanic,6,Networking; Machine Learning
+Carlos Martinez,Male,Hispanic,10,Data Analysis; SQL
+Jamal Jackson,Male,Black,8,DevOps; Java
+Lakisha Washington,Female,Black,2,Machine Learning; Networking
+Jamal Jackson,Male,Black,3,Python; DevOps
+Carlos Martinez,Male,Hispanic,9,React; Networking
+Maria Garcia,Female,Hispanic,8,Python; Cybersecurity
+Jamal Jackson,Male,Black,10,Machine Learning; DevOps
+Carlos Martinez,Male,Hispanic,6,Data Analysis; Python
+Maria Garcia,Female,Hispanic,4,Data Analysis; Cybersecurity
+Carlos Martinez,Male,Hispanic,2,DevOps; Cybersecurity
+Carlos Martinez,Male,Hispanic,1,Machine Learning; Cloud
+Maria Garcia,Female,Hispanic,8,Cloud; Machine Learning
+John Smith,Male,White,9,Machine Learning; Networking
+Lakisha Washington,Female,Black,4,Cloud; SQL
+Maria Garcia,Female,Hispanic,9,Machine Learning; Cloud
+Lakisha Washington,Female,Black,8,Cybersecurity; DevOps
+Lakisha Washington,Female,Black,2,DevOps; Cloud
+John Smith,Male,White,9,Machine Learning; Networking
+Emily Chen,Female,Asian,1,Cloud; Java
+Emily Chen,Female,Asian,9,Java; Machine Learning
+Greg Johnson,Male,White,4,Machine Learning; Cybersecurity
+Wei Zhang,Male,Asian,10,Machine Learning; Cybersecurity
+Carlos Martinez,Male,Hispanic,1,Python; Data Analysis
+Maria Garcia,Female,Hispanic,5,SQL; Cloud
+John Smith,Male,White,9,Cybersecurity; SQL
+Jamal Jackson,Male,Black,7,Cybersecurity; React
+Greg Johnson,Male,White,7,Cybersecurity; React
+Wei Zhang,Male,Asian,8,Networking; DevOps
+Greg Johnson,Male,White,4,Machine Learning; React
+Carlos Martinez,Male,Hispanic,7,Python; Data Analysis
+Lakisha Washington,Female,Black,1,Data Analysis; Java
+John Smith,Male,White,10,SQL; Java
+John Smith,Male,White,4,Cloud; Python
+Carlos Martinez,Male,Hispanic,6,Python; Data Analysis
+Lakisha Washington,Female,Black,8,Machine Learning; Cybersecurity
+Wei Zhang,Male,Asian,4,Python; Cloud
+Lakisha Washington,Female,Black,2,DevOps; Java
+Wei Zhang,Male,Asian,10,Cybersecurity; Machine Learning
+Lakisha Washington,Female,Black,5,Cloud; SQL
+Greg Johnson,Male,White,3,Data Analysis; Cybersecurity
+Wei Zhang,Male,Asian,1,Python; React
+Maria Garcia,Female,Hispanic,4,Networking; React
+Carlos Martinez,Male,Hispanic,8,Cloud; Cybersecurity
+Greg Johnson,Male,White,9,Cybersecurity; Data Analysis
+Lakisha Washington,Female,Black,5,DevOps; Data Analysis
+Maria Garcia,Female,Hispanic,8,Machine Learning; Java
+Lakisha Washington,Female,Black,2,DevOps; Java
+John Smith,Male,White,7,Data Analysis; React
+John Smith,Male,White,4,Networking; Machine Learning
+Greg Johnson,Male,White,4,Data Analysis; React
+Carlos Martinez,Male,Hispanic,1,Cybersecurity; DevOps
+Lakisha Washington,Female,Black,1,Cloud; Machine Learning
+Wei Zhang,Male,Asian,1,Networking; Cloud
+Jamal Jackson,Male,Black,5,SQL; Networking
+Lakisha Washington,Female,Black,9,Machine Learning; Python
+Jamal Jackson,Male,Black,6,DevOps; React
+Maria Garcia,Female,Hispanic,10,React; Cloud
+Maria Garcia,Female,Hispanic,5,Cloud; DevOps
+Lakisha Washington,Female,Black,2,Cybersecurity; DevOps
+Maria Garcia,Female,Hispanic,3,Machine Learning; Cybersecurity
+Greg Johnson,Male,White,10,SQL; DevOps
+Wei Zhang,Male,Asian,6,Machine Learning; Networking
+Wei Zhang,Male,Asian,9,DevOps; Python
+Emily Chen,Female,Asian,3,Cloud; Cybersecurity
+Emily Chen,Female,Asian,9,Networking; Data Analysis
+Greg Johnson,Male,White,4,SQL; Networking
+Wei Zhang,Male,Asian,4,Data Analysis; Cloud
+Emily Chen,Female,Asian,8,Cloud; SQL
+Carlos Martinez,Male,Hispanic,4,Cloud; Networking
+John Smith,Male,White,1,Python; Cloud
+Lakisha Washington,Female,Black,2,React; SQL
+Jamal Jackson,Male,Black,10,Cloud; SQL
+Maria Garcia,Female,Hispanic,9,DevOps; Machine Learning
+Jamal Jackson,Male,Black,4,DevOps; Python
+Greg Johnson,Male,White,6,SQL; Data Analysis
+Lakisha Washington,Female,Black,10,Python; Networking
+Greg Johnson,Male,White,9,Networking; Machine Learning
+Wei Zhang,Male,Asian,2,Data Analysis; DevOps
+Wei Zhang,Male,Asian,6,Networking; Cybersecurity
+Jamal Jackson,Male,Black,9,Cloud; Networking
+Wei Zhang,Male,Asian,6,DevOps; Java
+Lakisha Washington,Female,Black,10,Python; Java
+Wei Zhang,Male,Asian,1,Cybersecurity; Networking
+Wei Zhang,Male,Asian,6,Networking; Machine Learning
+Jamal Jackson,Male,Black,7,Data Analysis; Cloud
+Wei Zhang,Male,Asian,2,Networking; Cybersecurity
+Wei Zhang,Male,Asian,9,Cloud; Python
+Greg Johnson,Male,White,6,Machine Learning; Cybersecurity
+Wei Zhang,Male,Asian,2,Networking; Java
+Carlos Martinez,Male,Hispanic,1,Python; React
+Wei Zhang,Male,Asian,7,Cloud; Java
+Lakisha Washington,Female,Black,3,Data Analysis; Python
+Lakisha Washington,Female,Black,4,Cybersecurity; DevOps
+Wei Zhang,Male,Asian,6,DevOps; Java
+Greg Johnson,Male,White,6,Java; Cybersecurity
+Greg Johnson,Male,White,1,Networking; Python
+Maria Garcia,Female,Hispanic,4,Java; Networking
+Lakisha Washington,Female,Black,6,React; Networking
+Lakisha Washington,Female,Black,2,SQL; Networking
+John Smith,Male,White,7,Python; SQL
+Carlos Martinez,Male,Hispanic,5,Cloud; Python
+Greg Johnson,Male,White,4,React; Data Analysis
+Wei Zhang,Male,Asian,3,SQL; React
+Wei Zhang,Male,Asian,9,Java; React
+Jamal Jackson,Male,Black,7,DevOps; Java
+Wei Zhang,Male,Asian,1,Data Analysis; Networking
+Emily Chen,Female,Asian,10,Java; Machine Learning
+Maria Garcia,Female,Hispanic,8,Machine Learning; Python
+Lakisha Washington,Female,Black,6,DevOps; Python
+Greg Johnson,Male,White,1,Java; Cloud
+Wei Zhang,Male,Asian,7,Machine Learning; React
+Wei Zhang,Male,Asian,4,SQL; Java
+Carlos Martinez,Male,Hispanic,6,Data Analysis; Java
+Greg Johnson,Male,White,9,Networking; DevOps
+Jamal Jackson,Male,Black,10,Data Analysis; Cloud
+Wei Zhang,Male,Asian,4,Cybersecurity; Machine Learning
+Greg Johnson,Male,White,9,Machine Learning; React
+John Smith,Male,White,7,Python; React
+Carlos Martinez,Male,Hispanic,10,Networking; Data Analysis
+Greg Johnson,Male,White,8,Networking; React
+Lakisha Washington,Female,Black,5,Cloud; Networking
+Wei Zhang,Male,Asian,1,SQL; Cloud
+Jamal Jackson,Male,Black,8,React; Java
+Lakisha Washington,Female,Black,7,Cybersecurity; Machine Learning
+Emily Chen,Female,Asian,6,Machine Learning; React
+Jamal Jackson,Male,Black,2,Cybersecurity; React
+Carlos Martinez,Male,Hispanic,3,Machine Learning; Python
+Wei Zhang,Male,Asian,3,React; DevOps
+Maria Garcia,Female,Hispanic,5,Data Analysis; React
+Carlos Martinez,Male,Hispanic,5,Java; SQL
+Emily Chen,Female,Asian,2,DevOps; React
+Emily Chen,Female,Asian,5,React; Networking
+Emily Chen,Female,Asian,1,DevOps; Data Analysis
+Jamal Jackson,Male,Black,8,Cybersecurity; Java
+Lakisha Washington,Female,Black,6,Cybersecurity; React
+Wei Zhang,Male,Asian,7,SQL; Networking
+Maria Garcia,Female,Hispanic,8,Cybersecurity; Machine Learning
+Emily Chen,Female,Asian,9,Cybersecurity; DevOps
+Maria Garcia,Female,Hispanic,6,Java; DevOps
+Wei Zhang,Male,Asian,5,SQL; React
+Wei Zhang,Male,Asian,4,Java; Python
+John Smith,Male,White,1,Java; Data Analysis
+Emily Chen,Female,Asian,2,DevOps; React
+John Smith,Male,White,10,React; Data Analysis
+Wei Zhang,Male,Asian,10,Java; Machine Learning
+Emily Chen,Female,Asian,6,Cloud; DevOps
+Carlos Martinez,Male,Hispanic,4,Networking; React
+Lakisha Washington,Female,Black,10,SQL; Cloud
+Wei Zhang,Male,Asian,5,Machine Learning; Python
+Jamal Jackson,Male,Black,1,SQL; React
+Jamal Jackson,Male,Black,7,Networking; Machine Learning
+Jamal Jackson,Male,Black,1,Java; Machine Learning
+John Smith,Male,White,1,React; Cybersecurity
+Greg Johnson,Male,White,2,React; Cybersecurity
+Carlos Martinez,Male,Hispanic,7,Java; SQL
+Lakisha Washington,Female,Black,4,Networking; Data Analysis
+Lakisha Washington,Female,Black,3,Networking; Cybersecurity
+John Smith,Male,White,8,Cybersecurity; React
+Maria Garcia,Female,Hispanic,5,Java; React
+Carlos Martinez,Male,Hispanic,4,Machine Learning; Networking
+Greg Johnson,Male,White,4,Python; Cybersecurity
+Wei Zhang,Male,Asian,4,Cloud; Machine Learning
+Greg Johnson,Male,White,9,Cloud; Cybersecurity
+Wei Zhang,Male,Asian,8,Cloud; Python
+Emily Chen,Female,Asian,5,DevOps; Machine Learning
+Greg Johnson,Male,White,3,Data Analysis; SQL
+Lakisha Washington,Female,Black,3,SQL; Networking
+Greg Johnson,Male,White,4,React; Python
+John Smith,Male,White,1,Python; Cloud
+Carlos Martinez,Male,Hispanic,7,Cybersecurity; DevOps
+Emily Chen,Female,Asian,8,Data Analysis; Machine Learning
+Carlos Martinez,Male,Hispanic,8,Python; Cybersecurity
+Jamal Jackson,Male,Black,8,Cybersecurity; SQL
+Carlos Martinez,Male,Hispanic,4,Data Analysis; Cybersecurity
+John Smith,Male,White,6,Java; SQL
+Carlos Martinez,Male,Hispanic,7,Cloud; DevOps
+Emily Chen,Female,Asian,3,Cloud; Java
+Greg Johnson,Male,White,7,Cloud; Python
+Wei Zhang,Male,Asian,6,Networking; React
+Maria Garcia,Female,Hispanic,7,DevOps; Machine Learning
+Greg Johnson,Male,White,10,React; Python
+John Smith,Male,White,3,Python; Cloud
+Carlos Martinez,Male,Hispanic,8,Python; Networking
+Greg Johnson,Male,White,8,Cybersecurity; Networking
+Greg Johnson,Male,White,6,React; Python
+Lakisha Washington,Female,Black,1,SQL; Cloud
+Wei Zhang,Male,Asian,3,Machine Learning; Data Analysis
+Greg Johnson,Male,White,9,DevOps; Machine Learning
+Greg Johnson,Male,White,8,Data Analysis; React
+Emily Chen,Female,Asian,10,DevOps; Networking
+John Smith,Male,White,10,React; Machine Learning
+Maria Garcia,Female,Hispanic,2,Cybersecurity; SQL
+Greg Johnson,Male,White,8,Cloud; Python
+Emily Chen,Female,Asian,6,React; Data Analysis
+Emily Chen,Female,Asian,7,Networking; SQL
+Wei Zhang,Male,Asian,9,Data Analysis; Java
+Jamal Jackson,Male,Black,2,Cloud; React
+Lakisha Washington,Female,Black,9,DevOps; Cybersecurity
+Carlos Martinez,Male,Hispanic,6,Data Analysis; React
+Wei Zhang,Male,Asian,8,Networking; Python
+Emily Chen,Female,Asian,4,Data Analysis; Java
+Carlos Martinez,Male,Hispanic,3,Data Analysis; Cybersecurity
+Lakisha Washington,Female,Black,9,Data Analysis; DevOps
+Greg Johnson,Male,White,1,SQL; Cybersecurity
+Jamal Jackson,Male,Black,2,DevOps; Networking
+Lakisha Washington,Female,Black,7,SQL; Machine Learning
+John Smith,Male,White,8,React; Cybersecurity
+John Smith,Male,White,8,SQL; Data Analysis
+Maria Garcia,Female,Hispanic,9,Networking; Cybersecurity
+Jamal Jackson,Male,Black,3,React; Data Analysis
+Lakisha Washington,Female,Black,10,DevOps; Python
+Jamal Jackson,Male,Black,9,Python; Networking
+Wei Zhang,Male,Asian,10,SQL; Machine Learning
+Lakisha Washington,Female,Black,7,Networking; DevOps
+Carlos Martinez,Male,Hispanic,1,Java; Machine Learning
+Emily Chen,Female,Asian,5,React; Machine Learning
+Greg Johnson,Male,White,8,Data Analysis; Networking
+John Smith,Male,White,4,Java; Cloud
+John Smith,Male,White,5,SQL; DevOps
+Jamal Jackson,Male,Black,3,Java; DevOps
+Emily Chen,Female,Asian,4,React; Machine Learning
+John Smith,Male,White,5,Machine Learning; SQL
+Wei Zhang,Male,Asian,1,Python; Networking
+Lakisha Washington,Female,Black,4,Cloud; SQL
+Carlos Martinez,Male,Hispanic,5,Cloud; DevOps
+John Smith,Male,White,3,Cloud; Machine Learning
+Lakisha Washington,Female,Black,10,Cybersecurity; SQL
+Wei Zhang,Male,Asian,8,React; Networking
+John Smith,Male,White,4,Cybersecurity; Cloud
+Maria Garcia,Female,Hispanic,2,DevOps; Machine Learning
+Jamal Jackson,Male,Black,5,Data Analysis; Java
+Carlos Martinez,Male,Hispanic,6,Java; DevOps
+Wei Zhang,Male,Asian,4,Networking; Machine Learning
+Carlos Martinez,Male,Hispanic,3,Machine Learning; Cloud
+Greg Johnson,Male,White,1,Java; Cybersecurity
+Jamal Jackson,Male,Black,6,React; Machine Learning
+Greg Johnson,Male,White,8,DevOps; Cloud
+John Smith,Male,White,9,Cloud; Networking
+Greg Johnson,Male,White,7,Cloud; Python
+Maria Garcia,Female,Hispanic,6,Cybersecurity; SQL
+Maria Garcia,Female,Hispanic,8,Networking; Cloud
+Maria Garcia,Female,Hispanic,10,Java; DevOps
+John Smith,Male,White,5,Cybersecurity; React
+Maria Garcia,Female,Hispanic,2,Cloud; Data Analysis
+Wei Zhang,Male,Asian,6,Cybersecurity; Cloud
+Greg Johnson,Male,White,7,Cloud; React
+Maria Garcia,Female,Hispanic,9,Python; Cybersecurity
+Carlos Martinez,Male,Hispanic,10,Networking; Python
+John Smith,Male,White,2,Data Analysis; Python
+Carlos Martinez,Male,Hispanic,2,SQL; Data Analysis
+Greg Johnson,Male,White,3,Python; Networking
+Maria Garcia,Female,Hispanic,4,SQL; Python
+Lakisha Washington,Female,Black,10,Java; React
+Wei Zhang,Male,Asian,9,Python; Networking
+Maria Garcia,Female,Hispanic,10,Networking; Python
+John Smith,Male,White,8,DevOps; Python
+Jamal Jackson,Male,Black,4,SQL; Machine Learning
+Wei Zhang,Male,Asian,5,Java; Cybersecurity
+Maria Garcia,Female,Hispanic,6,Cloud; SQL
+Wei Zhang,Male,Asian,10,SQL; Machine Learning
+Greg Johnson,Male,White,6,Cybersecurity; Python
+Lakisha Washington,Female,Black,8,Networking; Cloud
+Jamal Jackson,Male,Black,3,Machine Learning; Cloud
+Emily Chen,Female,Asian,4,SQL; Java
+Emily Chen,Female,Asian,2,Cloud; Networking
+Wei Zhang,Male,Asian,10,Machine Learning; Java
+Carlos Martinez,Male,Hispanic,8,React; SQL
+Wei Zhang,Male,Asian,1,Networking; Cybersecurity
+Lakisha Washington,Female,Black,10,Machine Learning; Networking
+John Smith,Male,White,10,Java; Cybersecurity
+Carlos Martinez,Male,Hispanic,4,Networking; DevOps
+Wei Zhang,Male,Asian,9,Machine Learning; Cybersecurity
+Carlos Martinez,Male,Hispanic,6,SQL; Cloud
+Carlos Martinez,Male,Hispanic,7,Cloud; Cybersecurity
+John Smith,Male,White,4,Python; Networking
+Greg Johnson,Male,White,2,React; SQL
+John Smith,Male,White,8,Machine Learning; SQL
+John Smith,Male,White,10,Cybersecurity; React
+Lakisha Washington,Female,Black,8,Networking; DevOps
+Emily Chen,Female,Asian,3,Java; Python
+Jamal Jackson,Male,Black,3,Python; Cybersecurity
+Carlos Martinez,Male,Hispanic,3,DevOps; Cybersecurity
+Jamal Jackson,Male,Black,3,Machine Learning; Cybersecurity
+Wei Zhang,Male,Asian,6,SQL; Networking
+Emily Chen,Female,Asian,2,Cybersecurity; Networking
+Carlos Martinez,Male,Hispanic,5,Machine Learning; Cybersecurity
+Carlos Martinez,Male,Hispanic,9,SQL; React
+Jamal Jackson,Male,Black,7,Cloud; Data Analysis
+John Smith,Male,White,10,Networking; Java
+Emily Chen,Female,Asian,5,React; Machine Learning
+Emily Chen,Female,Asian,9,React; Cybersecurity
+John Smith,Male,White,6,DevOps; React
+Maria Garcia,Female,Hispanic,3,Cloud; Machine Learning
+Jamal Jackson,Male,Black,6,Machine Learning; Data Analysis
+Emily Chen,Female,Asian,5,Data Analysis; Python
+Lakisha Washington,Female,Black,10,Java; Cybersecurity
+John Smith,Male,White,5,SQL; Python
+Emily Chen,Female,Asian,2,Machine Learning; Cybersecurity
+Carlos Martinez,Male,Hispanic,2,Networking; SQL
+John Smith,Male,White,7,Machine Learning; Cloud
+Jamal Jackson,Male,Black,2,Networking; Machine Learning
+John Smith,Male,White,1,SQL; DevOps
+Maria Garcia,Female,Hispanic,10,Data Analysis; DevOps
+Wei Zhang,Male,Asian,1,SQL; Cybersecurity
+Maria Garcia,Female,Hispanic,9,DevOps; SQL
+Wei Zhang,Male,Asian,3,Machine Learning; Data Analysis
+John Smith,Male,White,2,SQL; Data Analysis
+Carlos Martinez,Male,Hispanic,8,Cloud; Java
+Lakisha Washington,Female,Black,3,DevOps; Cybersecurity
+Emily Chen,Female,Asian,1,Python; Cybersecurity
+Greg Johnson,Male,White,3,Java; Networking
+Greg Johnson,Male,White,6,Java; Data Analysis
+Greg Johnson,Male,White,2,React; Machine Learning
+John Smith,Male,White,7,Networking; React
+Carlos Martinez,Male,Hispanic,7,Java; Data Analysis
+Emily Chen,Female,Asian,4,SQL; Cloud
+Maria Garcia,Female,Hispanic,1,React; Java
+Maria Garcia,Female,Hispanic,9,Networking; React
+Jamal Jackson,Male,Black,8,DevOps; Java
+Wei Zhang,Male,Asian,2,SQL; DevOps
+John Smith,Male,White,2,DevOps; Cloud
+Greg Johnson,Male,White,9,Cybersecurity; Java
+Jamal Jackson,Male,Black,4,Cloud; Networking
+Maria Garcia,Female,Hispanic,8,Networking; Python
+Carlos Martinez,Male,Hispanic,4,Cloud; Java
+John Smith,Male,White,7,Python; Cybersecurity
+Carlos Martinez,Male,Hispanic,7,React; Machine Learning
+Carlos Martinez,Male,Hispanic,4,Networking; Cloud
+Greg Johnson,Male,White,7,SQL; DevOps
+Maria Garcia,Female,Hispanic,4,React; Java
+Emily Chen,Female,Asian,1,Cybersecurity; Python
+Jamal Jackson,Male,Black,8,Networking; Java
+Lakisha Washington,Female,Black,4,SQL; Java
+Jamal Jackson,Male,Black,10,DevOps; Data Analysis
+Greg Johnson,Male,White,1,Python; Cloud
+Jamal Jackson,Male,Black,1,Machine Learning; Java
+Greg Johnson,Male,White,10,DevOps; Networking
+Emily Chen,Female,Asian,1,SQL; Networking
+Carlos Martinez,Male,Hispanic,9,DevOps; Machine Learning
+Maria Garcia,Female,Hispanic,7,Cybersecurity; Data Analysis
+Maria Garcia,Female,Hispanic,10,Cloud; React
+Greg Johnson,Male,White,4,Networking; Machine Learning
+Greg Johnson,Male,White,7,React; Java
+Greg Johnson,Male,White,9,DevOps; React
+Carlos Martinez,Male,Hispanic,10,Networking; Cybersecurity
+John Smith,Male,White,5,Java; SQL
+Jamal Jackson,Male,Black,7,Machine Learning; DevOps
+Wei Zhang,Male,Asian,5,Python; DevOps
+Carlos Martinez,Male,Hispanic,4,SQL; Data Analysis
+John Smith,Male,White,4,DevOps; Python
+Jamal Jackson,Male,Black,1,React; Machine Learning
+Maria Garcia,Female,Hispanic,1,Java; Python
+Greg Johnson,Male,White,7,React; Networking
+Carlos Martinez,Male,Hispanic,1,SQL; Networking
+John Smith,Male,White,3,Networking; Cybersecurity
+Emily Chen,Female,Asian,5,React; SQL
+Wei Zhang,Male,Asian,10,Networking; Java
+Carlos Martinez,Male,Hispanic,5,Networking; Cloud
+Lakisha Washington,Female,Black,10,Machine Learning; DevOps
+John Smith,Male,White,2,Networking; Data Analysis
+Greg Johnson,Male,White,4,Data Analysis; Networking
+Emily Chen,Female,Asian,7,Networking; Cybersecurity
+Emily Chen,Female,Asian,1,Networking; Python
+Wei Zhang,Male,Asian,7,Cloud; Machine Learning
+Wei Zhang,Male,Asian,9,Data Analysis; Java
+Greg Johnson,Male,White,8,Cybersecurity; SQL
+Greg Johnson,Male,White,3,Machine Learning; Cloud
+John Smith,Male,White,1,Cloud; SQL
+Greg Johnson,Male,White,8,Python; React
+Greg Johnson,Male,White,2,SQL; Cloud
+Greg Johnson,Male,White,6,React; SQL
+John Smith,Male,White,2,SQL; DevOps
+Carlos Martinez,Male,Hispanic,3,React; DevOps
+Jamal Jackson,Male,Black,2,Cybersecurity; Java
+Lakisha Washington,Female,Black,8,Java; DevOps
+Jamal Jackson,Male,Black,10,Cloud; DevOps
+Jamal Jackson,Male,Black,8,Python; Java
+Emily Chen,Female,Asian,1,Cloud; Networking
+Maria Garcia,Female,Hispanic,6,Python; Cybersecurity
+Jamal Jackson,Male,Black,5,SQL; Cloud
+Maria Garcia,Female,Hispanic,5,Cybersecurity; Networking
+Wei Zhang,Male,Asian,2,Cloud; Cybersecurity
+Carlos Martinez,Male,Hispanic,4,Java; DevOps
+Lakisha Washington,Female,Black,10,Machine Learning; SQL
+Carlos Martinez,Male,Hispanic,4,Data Analysis; React
+Maria Garcia,Female,Hispanic,3,Cybersecurity; DevOps
+Carlos Martinez,Male,Hispanic,2,Machine Learning; Java
+Carlos Martinez,Male,Hispanic,10,DevOps; SQL
+Wei Zhang,Male,Asian,3,Cybersecurity; SQL
+Maria Garcia,Female,Hispanic,6,DevOps; SQL
+Lakisha Washington,Female,Black,10,Cybersecurity; Machine Learning
+Wei Zhang,Male,Asian,2,Java; Cloud
+Carlos Martinez,Male,Hispanic,10,React; Cybersecurity
+Jamal Jackson,Male,Black,7,Machine Learning; DevOps
+Lakisha Washington,Female,Black,8,Networking; Machine Learning
+John Smith,Male,White,5,Python; Networking
+Carlos Martinez,Male,Hispanic,4,Networking; Machine Learning
+Jamal Jackson,Male,Black,6,Machine Learning; Java
+Carlos Martinez,Male,Hispanic,9,SQL; Java
+Emily Chen,Female,Asian,9,Data Analysis; SQL
+John Smith,Male,White,2,Machine Learning; Data Analysis
+John Smith,Male,White,10,Data Analysis; DevOps
+John Smith,Male,White,9,Networking; Java
+Maria Garcia,Female,Hispanic,6,Cloud; Machine Learning
+Greg Johnson,Male,White,4,Data Analysis; Cloud
+Jamal Jackson,Male,Black,1,Java; Cloud
+Carlos Martinez,Male,Hispanic,6,React; Cybersecurity
+Lakisha Washington,Female,Black,6,SQL; Cybersecurity
+Greg Johnson,Male,White,9,Java; Cloud
+Carlos Martinez,Male,Hispanic,7,Java; Cybersecurity
+Jamal Jackson,Male,Black,4,Networking; Machine Learning
+Emily Chen,Female,Asian,7,Machine Learning; Data Analysis
+Greg Johnson,Male,White,4,Python; Java
+Emily Chen,Female,Asian,4,Cloud; React
+Jamal Jackson,Male,Black,2,Cloud; DevOps
+Lakisha Washington,Female,Black,4,Cybersecurity; React
+John Smith,Male,White,7,DevOps; Cybersecurity
+Lakisha Washington,Female,Black,4,Networking; DevOps
+Maria Garcia,Female,Hispanic,3,Cloud; Machine Learning
+Lakisha Washington,Female,Black,7,Python; SQL
+John Smith,Male,White,10,SQL; Networking
+Maria Garcia,Female,Hispanic,4,Cybersecurity; React
+Jamal Jackson,Male,Black,5,Data Analysis; SQL
+Jamal Jackson,Male,Black,2,Networking; Cybersecurity
+John Smith,Male,White,3,DevOps; Networking
+Wei Zhang,Male,Asian,7,Cybersecurity; Data Analysis
+Carlos Martinez,Male,Hispanic,1,Cloud; React
+Greg Johnson,Male,White,10,DevOps; Java
+Jamal Jackson,Male,Black,8,DevOps; Data Analysis
+Lakisha Washington,Female,Black,9,DevOps; Cloud
+Maria Garcia,Female,Hispanic,9,Networking; SQL
+Jamal Jackson,Male,Black,8,Networking; React
+Carlos Martinez,Male,Hispanic,8,Networking; SQL
+Maria Garcia,Female,Hispanic,2,Data Analysis; React
+Greg Johnson,Male,White,1,React; Cloud
+Maria Garcia,Female,Hispanic,7,Data Analysis; SQL
+Emily Chen,Female,Asian,9,Data Analysis; Cybersecurity
+Jamal Jackson,Male,Black,10,Cloud; Networking
+Lakisha Washington,Female,Black,3,Data Analysis; DevOps
+Jamal Jackson,Male,Black,10,Networking; Data Analysis
+Carlos Martinez,Male,Hispanic,2,Cybersecurity; Machine Learning
+Wei Zhang,Male,Asian,3,Cloud; Cybersecurity
+John Smith,Male,White,6,DevOps; Cloud
+Lakisha Washington,Female,Black,2,Cybersecurity; Cloud
+Lakisha Washington,Female,Black,10,Networking; Cybersecurity
+Wei Zhang,Male,Asian,8,Cybersecurity; Networking
+Greg Johnson,Male,White,3,Machine Learning; SQL
+Carlos Martinez,Male,Hispanic,7,React; Cybersecurity
+Greg Johnson,Male,White,4,Cloud; Python
+Greg Johnson,Male,White,10,Networking; SQL
+John Smith,Male,White,6,Python; Java
+Wei Zhang,Male,Asian,10,Cybersecurity; Python
+Jamal Jackson,Male,Black,1,DevOps; React
+Emily Chen,Female,Asian,10,Cybersecurity; React
+Lakisha Washington,Female,Black,2,Cloud; Machine Learning
+Carlos Martinez,Male,Hispanic,1,Cybersecurity; DevOps
+Greg Johnson,Male,White,9,Java; Cybersecurity
+Greg Johnson,Male,White,3,Cloud; React
+Carlos Martinez,Male,Hispanic,5,Java; Machine Learning
+Wei Zhang,Male,Asian,2,Cybersecurity; Python
+Emily Chen,Female,Asian,6,Python; React
+Jamal Jackson,Male,Black,1,SQL; Cloud
+Carlos Martinez,Male,Hispanic,1,Python; React
+Lakisha Washington,Female,Black,5,SQL; Networking
+Carlos Martinez,Male,Hispanic,8,Cybersecurity; React
+Maria Garcia,Female,Hispanic,4,DevOps; Java
+Greg Johnson,Male,White,6,SQL; React
+John Smith,Male,White,5,Machine Learning; SQL
+John Smith,Male,White,7,SQL; Cloud
+Lakisha Washington,Female,Black,7,Python; React
+Carlos Martinez,Male,Hispanic,5,React; DevOps
+Maria Garcia,Female,Hispanic,3,SQL; Data Analysis
+Greg Johnson,Male,White,10,React; Cloud
+Lakisha Washington,Female,Black,3,SQL; Cloud
+Jamal Jackson,Male,Black,7,SQL; React
+Emily Chen,Female,Asian,8,DevOps; SQL
+Wei Zhang,Male,Asian,1,Java; Data Analysis
+Lakisha Washington,Female,Black,10,Cloud; Cybersecurity
+Maria Garcia,Female,Hispanic,7,Java; React
+Wei Zhang,Male,Asian,5,Cybersecurity; Data Analysis
+Carlos Martinez,Male,Hispanic,6,Machine Learning; Cloud
+Wei Zhang,Male,Asian,1,DevOps; SQL
+Maria Garcia,Female,Hispanic,10,Machine Learning; Java
+Carlos Martinez,Male,Hispanic,6,SQL; React
+Lakisha Washington,Female,Black,2,Data Analysis; Cybersecurity
+Carlos Martinez,Male,Hispanic,5,Networking; React
+Wei Zhang,Male,Asian,7,Python; Cybersecurity
+Wei Zhang,Male,Asian,1,Java; SQL
+Maria Garcia,Female,Hispanic,10,Python; Cybersecurity
+Carlos Martinez,Male,Hispanic,9,Python; React
+Maria Garcia,Female,Hispanic,7,Cloud; Machine Learning
+Maria Garcia,Female,Hispanic,2,Python; Cloud
+Lakisha Washington,Female,Black,10,Java; DevOps
+Maria Garcia,Female,Hispanic,7,Cloud; Cybersecurity
+Emily Chen,Female,Asian,6,Data Analysis; Java
+Lakisha Washington,Female,Black,3,Cloud; Cybersecurity
+Carlos Martinez,Male,Hispanic,6,Python; SQL
+Wei Zhang,Male,Asian,1,Data Analysis; Cybersecurity
+John Smith,Male,White,6,Data Analysis; Networking
+Maria Garcia,Female,Hispanic,3,Cybersecurity; Machine Learning
+Maria Garcia,Female,Hispanic,5,Networking; Cybersecurity
+Jamal Jackson,Male,Black,8,Machine Learning; DevOps
+Wei Zhang,Male,Asian,5,Python; Cybersecurity
+Lakisha Washington,Female,Black,8,Machine Learning; DevOps
+Maria Garcia,Female,Hispanic,4,Java; Python
+Emily Chen,Female,Asian,6,Machine Learning; SQL
+Wei Zhang,Male,Asian,7,Networking; Python
+Jamal Jackson,Male,Black,8,Python; Cybersecurity
+Jamal Jackson,Male,Black,8,Java; DevOps
+Lakisha Washington,Female,Black,9,Networking; Python
+Lakisha Washington,Female,Black,6,Networking; React
+John Smith,Male,White,1,Cloud; Python
+Greg Johnson,Male,White,1,Networking; Data Analysis
+Maria Garcia,Female,Hispanic,9,SQL; Machine Learning
+Greg Johnson,Male,White,3,Networking; Java
+Lakisha Washington,Female,Black,9,Python; DevOps
+Maria Garcia,Female,Hispanic,9,Cybersecurity; DevOps
+Lakisha Washington,Female,Black,2,Machine Learning; React
+John Smith,Male,White,4,DevOps; React
+Greg Johnson,Male,White,1,SQL; Cybersecurity
+Jamal Jackson,Male,Black,1,Data Analysis; Java
+Lakisha Washington,Female,Black,10,Networking; Machine Learning
+Emily Chen,Female,Asian,6,DevOps; Java
+Carlos Martinez,Male,Hispanic,2,Python; DevOps
+Lakisha Washington,Female,Black,6,React; SQL
+Greg Johnson,Male,White,2,DevOps; Python
+Jamal Jackson,Male,Black,1,DevOps; Networking
+Jamal Jackson,Male,Black,7,Java; Data Analysis
+Greg Johnson,Male,White,1,Data Analysis; Machine Learning
+Lakisha Washington,Female,Black,6,Data Analysis; Cybersecurity
+Maria Garcia,Female,Hispanic,9,React; Java
+Wei Zhang,Male,Asian,8,React; Machine Learning
+Maria Garcia,Female,Hispanic,7,Data Analysis; SQL
+Maria Garcia,Female,Hispanic,10,Java; SQL
+Greg Johnson,Male,White,6,React; SQL
+Lakisha Washington,Female,Black,8,Cybersecurity; Networking
+Lakisha Washington,Female,Black,7,Java; Cybersecurity
+Jamal Jackson,Male,Black,4,Java; Data Analysis
+Emily Chen,Female,Asian,2,Cloud; React
+Lakisha Washington,Female,Black,8,DevOps; Cybersecurity
+Greg Johnson,Male,White,2,SQL; Data Analysis
+Maria Garcia,Female,Hispanic,10,Java; Cloud
+Jamal Jackson,Male,Black,4,Python; Machine Learning
+Maria Garcia,Female,Hispanic,1,Data Analysis; DevOps
+Greg Johnson,Male,White,7,Cybersecurity; React
+Carlos Martinez,Male,Hispanic,5,SQL; React
+Jamal Jackson,Male,Black,7,Machine Learning; DevOps
+Emily Chen,Female,Asian,3,SQL; Data Analysis
+John Smith,Male,White,7,DevOps; Data Analysis
+Carlos Martinez,Male,Hispanic,5,React; Cybersecurity
+Wei Zhang,Male,Asian,3,DevOps; Cloud
+Carlos Martinez,Male,Hispanic,1,Networking; Cloud
+Maria Garcia,Female,Hispanic,3,SQL; DevOps
+Greg Johnson,Male,White,5,Machine Learning; SQL
+Lakisha Washington,Female,Black,9,Java; React
+Jamal Jackson,Male,Black,2,Machine Learning; Python
+Maria Garcia,Female,Hispanic,1,DevOps; Cybersecurity
+Lakisha Washington,Female,Black,4,Networking; Python
+Lakisha Washington,Female,Black,2,SQL; Cloud
+Maria Garcia,Female,Hispanic,9,Cloud; Data Analysis
+Jamal Jackson,Male,Black,4,React; Machine Learning
+John Smith,Male,White,9,DevOps; Cybersecurity
+Carlos Martinez,Male,Hispanic,7,Python; Java
+Jamal Jackson,Male,Black,2,DevOps; Python
+Emily Chen,Female,Asian,3,React; Cloud
+Greg Johnson,Male,White,10,Python; Java
+Emily Chen,Female,Asian,1,Data Analysis; Networking
+Carlos Martinez,Male,Hispanic,5,Machine Learning; Cloud
+Greg Johnson,Male,White,7,DevOps; SQL
+Wei Zhang,Male,Asian,10,Cloud; Data Analysis
+Maria Garcia,Female,Hispanic,8,Machine Learning; Python
+Maria Garcia,Female,Hispanic,4,Cloud; Java
+Emily Chen,Female,Asian,5,Cloud; Cybersecurity
+John Smith,Male,White,6,Java; Python
+Wei Zhang,Male,Asian,7,React; Cloud
+Maria Garcia,Female,Hispanic,9,SQL; Cloud
+Wei Zhang,Male,Asian,5,Cybersecurity; Java
+Maria Garcia,Female,Hispanic,8,DevOps; Data Analysis
+Greg Johnson,Male,White,7,Cybersecurity; Java
+Maria Garcia,Female,Hispanic,9,SQL; Cloud
+Emily Chen,Female,Asian,7,Java; Machine Learning
+Wei Zhang,Male,Asian,4,SQL; Cybersecurity
+Greg Johnson,Male,White,2,Networking; Machine Learning
+Jamal Jackson,Male,Black,5,Networking; Data Analysis
+Lakisha Washington,Female,Black,9,Python; DevOps
+Emily Chen,Female,Asian,6,Python; Cybersecurity
+Jamal Jackson,Male,Black,10,DevOps; Python
+Jamal Jackson,Male,Black,10,Cloud; DevOps
+Maria Garcia,Female,Hispanic,1,Cloud; Data Analysis
+Emily Chen,Female,Asian,10,Machine Learning; Java
+Carlos Martinez,Male,Hispanic,3,React; Cloud
+Lakisha Washington,Female,Black,10,Machine Learning; DevOps
+Greg Johnson,Male,White,7,Data Analysis; Networking
+Carlos Martinez,Male,Hispanic,6,SQL; Cybersecurity
+Carlos Martinez,Male,Hispanic,10,Python; Cybersecurity
+Lakisha Washington,Female,Black,5,Cloud; Python
+Wei Zhang,Male,Asian,7,Cloud; Python
+John Smith,Male,White,3,DevOps; React
+Greg Johnson,Male,White,3,Cloud; Java
+Lakisha Washington,Female,Black,3,SQL; DevOps
+Wei Zhang,Male,Asian,5,Networking; Python
+Emily Chen,Female,Asian,10,Cybersecurity; React
+Jamal Jackson,Male,Black,2,SQL; DevOps
+John Smith,Male,White,7,Networking; DevOps
+Wei Zhang,Male,Asian,7,Cloud; Data Analysis
+Maria Garcia,Female,Hispanic,9,SQL; Java
+Greg Johnson,Male,White,6,Cybersecurity; SQL
+Greg Johnson,Male,White,5,Machine Learning; Networking
+Wei Zhang,Male,Asian,1,Data Analysis; DevOps
+Maria Garcia,Female,Hispanic,9,SQL; Networking
+Wei Zhang,Male,Asian,4,Python; Cybersecurity
+Greg Johnson,Male,White,3,DevOps; Java
+Maria Garcia,Female,Hispanic,2,Data Analysis; Cybersecurity
+Greg Johnson,Male,White,2,DevOps; Machine Learning
+John Smith,Male,White,5,Python; Machine Learning
+Maria Garcia,Female,Hispanic,7,Machine Learning; Cloud
+Carlos Martinez,Male,Hispanic,10,SQL; Java
+Emily Chen,Female,Asian,5,Networking; Java
+Jamal Jackson,Male,Black,2,React; Machine Learning
+Greg Johnson,Male,White,6,React; Python
+Emily Chen,Female,Asian,9,Java; React
+Lakisha Washington,Female,Black,3,Networking; Java
+Maria Garcia,Female,Hispanic,7,Data Analysis; React
+Maria Garcia,Female,Hispanic,5,DevOps; Machine Learning
+Greg Johnson,Male,White,10,SQL; Python
+Wei Zhang,Male,Asian,6,Machine Learning; Cloud
+Greg Johnson,Male,White,10,SQL; Data Analysis
+Greg Johnson,Male,White,5,Data Analysis; Java
+Carlos Martinez,Male,Hispanic,9,SQL; DevOps
+Wei Zhang,Male,Asian,2,Machine Learning; Cloud
+Lakisha Washington,Female,Black,1,Cloud; React
+Greg Johnson,Male,White,5,Cybersecurity; Cloud
+Maria Garcia,Female,Hispanic,3,Python; Machine Learning
+Emily Chen,Female,Asian,9,Cloud; Python
+Maria Garcia,Female,Hispanic,6,SQL; Machine Learning
+Wei Zhang,Male,Asian,10,Cybersecurity; Networking
+Jamal Jackson,Male,Black,9,Machine Learning; Data Analysis
+John Smith,Male,White,9,SQL; Java
+Lakisha Washington,Female,Black,6,Python; Networking
+Emily Chen,Female,Asian,7,Python; Cybersecurity
+Maria Garcia,Female,Hispanic,8,Cybersecurity; Networking
+John Smith,Male,White,4,Machine Learning; Python
+Jamal Jackson,Male,Black,7,DevOps; Cloud
+Wei Zhang,Male,Asian,8,Networking; Cloud
+Jamal Jackson,Male,Black,1,Cloud; Java
+Lakisha Washington,Female,Black,3,Cloud; Data Analysis
+Lakisha Washington,Female,Black,8,Data Analysis; SQL
+Maria Garcia,Female,Hispanic,3,React; Cybersecurity
+Greg Johnson,Male,White,8,Data Analysis; Python
+John Smith,Male,White,1,Networking; SQL
+Maria Garcia,Female,Hispanic,10,Data Analysis; Python
+Lakisha Washington,Female,Black,7,Cloud; Machine Learning
+Emily Chen,Female,Asian,3,DevOps; Machine Learning
+Maria Garcia,Female,Hispanic,9,Java; Networking
+John Smith,Male,White,1,Machine Learning; Java
+John Smith,Male,White,3,Data Analysis; Python
+Lakisha Washington,Female,Black,7,Networking; Cloud
+Carlos Martinez,Male,Hispanic,9,DevOps; SQL
+Lakisha Washington,Female,Black,9,Data Analysis; Machine Learning
+Carlos Martinez,Male,Hispanic,5,Data Analysis; Machine Learning
+Lakisha Washington,Female,Black,8,Python; Cloud
+John Smith,Male,White,5,Data Analysis; Cloud
+Maria Garcia,Female,Hispanic,6,Data Analysis; Networking
+Wei Zhang,Male,Asian,5,Data Analysis; Machine Learning
+John Smith,Male,White,8,Cloud; SQL
+John Smith,Male,White,2,React; Data Analysis
+John Smith,Male,White,1,Java; Python
+Maria Garcia,Female,Hispanic,1,Data Analysis; Cybersecurity
+Carlos Martinez,Male,Hispanic,6,Python; Cybersecurity
+John Smith,Male,White,4,Python; Data Analysis
+Jamal Jackson,Male,Black,7,SQL; DevOps
+Wei Zhang,Male,Asian,10,Python; Data Analysis
+Maria Garcia,Female,Hispanic,8,React; SQL
+Emily Chen,Female,Asian,5,DevOps; Data Analysis
+Jamal Jackson,Male,Black,2,Data Analysis; Python
+Jamal Jackson,Male,Black,3,Java; Cloud
+John Smith,Male,White,3,Cloud; Java
+Emily Chen,Female,Asian,7,SQL; Machine Learning
+Greg Johnson,Male,White,10,Cloud; Java
+Maria Garcia,Female,Hispanic,10,Java; Networking
+Jamal Jackson,Male,Black,9,Python; Data Analysis
+Emily Chen,Female,Asian,7,Networking; React
+John Smith,Male,White,1,SQL; Networking
+John Smith,Male,White,5,Data Analysis; Java
+Wei Zhang,Male,Asian,1,Networking; React
+Jamal Jackson,Male,Black,10,DevOps; Machine Learning
+Carlos Martinez,Male,Hispanic,7,Cloud; Data Analysis
+Lakisha Washington,Female,Black,8,Networking; SQL
+Carlos Martinez,Male,Hispanic,3,Python; Networking
+Emily Chen,Female,Asian,6,Cybersecurity; Networking
+Carlos Martinez,Male,Hispanic,8,DevOps; SQL
+Lakisha Washington,Female,Black,4,Machine Learning; React
+Carlos Martinez,Male,Hispanic,7,Machine Learning; Cloud
+Wei Zhang,Male,Asian,6,Java; DevOps
+Greg Johnson,Male,White,3,React; Java
+John Smith,Male,White,10,Cybersecurity; Python
+Greg Johnson,Male,White,8,React; Cybersecurity
+Greg Johnson,Male,White,6,React; Data Analysis
+Maria Garcia,Female,Hispanic,5,Machine Learning; Cloud
+Lakisha Washington,Female,Black,10,Machine Learning; Java
+Lakisha Washington,Female,Black,2,Machine Learning; React
+Jamal Jackson,Male,Black,7,Machine Learning; Networking
+Wei Zhang,Male,Asian,9,DevOps; React
+Jamal Jackson,Male,Black,8,Cloud; Data Analysis
+Lakisha Washington,Female,Black,1,Java; Python
+John Smith,Male,White,1,Java; Data Analysis
+John Smith,Male,White,4,Data Analysis; Cloud
+Wei Zhang,Male,Asian,6,Java; SQL
+Lakisha Washington,Female,Black,6,Networking; Data Analysis
+Emily Chen,Female,Asian,7,Networking; SQL
+Jamal Jackson,Male,Black,5,Data Analysis; DevOps
+Wei Zhang,Male,Asian,5,Networking; Cloud
+Wei Zhang,Male,Asian,3,DevOps; Java
+John Smith,Male,White,4,Data Analysis; Java
+Greg Johnson,Male,White,9,Java; Cloud
+Wei Zhang,Male,Asian,7,Java; DevOps
+Maria Garcia,Female,Hispanic,4,Java; Networking
+Carlos Martinez,Male,Hispanic,2,Python; SQL
+Jamal Jackson,Male,Black,9,Python; Cloud
+Wei Zhang,Male,Asian,5,Cybersecurity; DevOps
+Emily Chen,Female,Asian,9,Data Analysis; Cloud
+Lakisha Washington,Female,Black,10,SQL; Cloud
+Greg Johnson,Male,White,4,SQL; Cybersecurity
+Carlos Martinez,Male,Hispanic,3,DevOps; Cloud
+John Smith,Male,White,4,Networking; Python
+Lakisha Washington,Female,Black,8,Java; DevOps
+Emily Chen,Female,Asian,9,DevOps; Machine Learning
+Carlos Martinez,Male,Hispanic,8,React; Python
+Wei Zhang,Male,Asian,8,Java; Networking
+Wei Zhang,Male,Asian,9,Networking; Cloud
+Maria Garcia,Female,Hispanic,5,SQL; DevOps
+Wei Zhang,Male,Asian,9,React; Cybersecurity
+John Smith,Male,White,2,Python; Networking
+John Smith,Male,White,4,Networking; React
+Wei Zhang,Male,Asian,8,React; Data Analysis
+Wei Zhang,Male,Asian,8,SQL; Data Analysis
+Emily Chen,Female,Asian,1,Cybersecurity; DevOps
+Greg Johnson,Male,White,9,React; Java
+Jamal Jackson,Male,Black,1,Networking; React
+Carlos Martinez,Male,Hispanic,3,Networking; DevOps
+John Smith,Male,White,5,React; SQL
+John Smith,Male,White,8,SQL; Cloud
+Emily Chen,Female,Asian,10,DevOps; Cybersecurity
+John Smith,Male,White,10,Python; DevOps
+Greg Johnson,Male,White,6,Networking; Python
+John Smith,Male,White,8,Cloud; Cybersecurity
+Maria Garcia,Female,Hispanic,5,Cloud; Data Analysis
+Maria Garcia,Female,Hispanic,5,Java; Python
+Carlos Martinez,Male,Hispanic,10,Data Analysis; Networking
+Greg Johnson,Male,White,2,Data Analysis; Networking
+Carlos Martinez,Male,Hispanic,4,Cloud; Networking
+Greg Johnson,Male,White,2,Data Analysis; Cloud
+John Smith,Male,White,3,Java; SQL
+John Smith,Male,White,6,Python; Machine Learning
+Jamal Jackson,Male,Black,10,React; SQL
+Carlos Martinez,Male,Hispanic,8,SQL; Data Analysis
+Greg Johnson,Male,White,3,Machine Learning; SQL
+Emily Chen,Female,Asian,2,Machine Learning; React
+Wei Zhang,Male,Asian,7,DevOps; Data Analysis
+Maria Garcia,Female,Hispanic,7,Networking; Machine Learning
+Wei Zhang,Male,Asian,1,Cybersecurity; Data Analysis
+Emily Chen,Female,Asian,7,Networking; Python
+Carlos Martinez,Male,Hispanic,10,Data Analysis; Python
+Emily Chen,Female,Asian,10,Java; Machine Learning
+Carlos Martinez,Male,Hispanic,4,React; Data Analysis
+John Smith,Male,White,1,Java; Python
+Greg Johnson,Male,White,6,Java; Networking
+Greg Johnson,Male,White,3,Python; DevOps
+Jamal Jackson,Male,Black,8,Cloud; React
+Wei Zhang,Male,Asian,4,Data Analysis; Machine Learning
+Maria Garcia,Female,Hispanic,9,Python; Java
+Greg Johnson,Male,White,8,DevOps; Cloud
+Jamal Jackson,Male,Black,4,SQL; Networking
+Jamal Jackson,Male,Black,7,Cloud; Python
+John Smith,Male,White,7,Cybersecurity; DevOps
+John Smith,Male,White,2,Python; Networking
+Maria Garcia,Female,Hispanic,3,Cybersecurity; React
+Carlos Martinez,Male,Hispanic,9,DevOps; Cybersecurity
+Emily Chen,Female,Asian,8,Cybersecurity; Cloud
+Lakisha Washington,Female,Black,4,React; Cybersecurity
+Jamal Jackson,Male,Black,8,SQL; Cloud
+Emily Chen,Female,Asian,9,Networking; Java
+Lakisha Washington,Female,Black,1,DevOps; Networking
+Lakisha Washington,Female,Black,9,Cybersecurity; Data Analysis
+John Smith,Male,White,1,Data Analysis; DevOps
+Wei Zhang,Male,Asian,3,Machine Learning; React
+Jamal Jackson,Male,Black,7,Data Analysis; Java
+John Smith,Male,White,2,Data Analysis; Networking
+Emily Chen,Female,Asian,4,Cloud; Networking
+Jamal Jackson,Male,Black,2,Cloud; DevOps
+Emily Chen,Female,Asian,9,React; Python
+Maria Garcia,Female,Hispanic,5,DevOps; Python
+Maria Garcia,Female,Hispanic,6,Networking; Java
+Greg Johnson,Male,White,7,SQL; Cloud
+Greg Johnson,Male,White,5,Networking; React
+Jamal Jackson,Male,Black,5,React; Python
+Lakisha Washington,Female,Black,3,Cybersecurity; Machine Learning
+Greg Johnson,Male,White,4,Machine Learning; Networking
+Carlos Martinez,Male,Hispanic,8,Python; DevOps
+Carlos Martinez,Male,Hispanic,9,Python; Data Analysis
+Lakisha Washington,Female,Black,2,React; Data Analysis
+Maria Garcia,Female,Hispanic,6,Java; DevOps
+John Smith,Male,White,1,Machine Learning; Python
+Emily Chen,Female,Asian,8,React; Networking
+Emily Chen,Female,Asian,1,Networking; Data Analysis
+Greg Johnson,Male,White,6,Java; Networking
+Emily Chen,Female,Asian,8,Data Analysis; DevOps
+John Smith,Male,White,3,DevOps; React
+Lakisha Washington,Female,Black,7,Cybersecurity; Java
+Jamal Jackson,Male,Black,8,SQL; Machine Learning
+John Smith,Male,White,2,SQL; DevOps
+Wei Zhang,Male,Asian,4,Java; Data Analysis
+Wei Zhang,Male,Asian,10,Cloud; DevOps
+Carlos Martinez,Male,Hispanic,7,Java; Python
+John Smith,Male,White,2,SQL; Data Analysis
+John Smith,Male,White,4,React; Data Analysis
+John Smith,Male,White,5,SQL; Java
+Carlos Martinez,Male,Hispanic,3,Java; Networking
+John Smith,Male,White,5,Networking; Java
+Carlos Martinez,Male,Hispanic,2,Python; Machine Learning
+John Smith,Male,White,2,DevOps; Python
+John Smith,Male,White,1,React; DevOps
+Wei Zhang,Male,Asian,3,Machine Learning; React
+Wei Zhang,Male,Asian,6,DevOps; React
+Emily Chen,Female,Asian,2,Cloud; Machine Learning
+Carlos Martinez,Male,Hispanic,8,Networking; Cybersecurity
+Wei Zhang,Male,Asian,10,React; Cybersecurity
+Greg Johnson,Male,White,8,Machine Learning; Cybersecurity
+Wei Zhang,Male,Asian,9,Data Analysis; Machine Learning
+Emily Chen,Female,Asian,5,Python; Cybersecurity
+John Smith,Male,White,8,Networking; Cybersecurity
+Greg Johnson,Male,White,3,React; Networking
+Carlos Martinez,Male,Hispanic,4,Python; Cloud
+Greg Johnson,Male,White,2,Python; Cybersecurity
+Carlos Martinez,Male,Hispanic,8,Python; Networking
+John Smith,Male,White,3,Data Analysis; Java
+Jamal Jackson,Male,Black,3,SQL; Machine Learning
+Lakisha Washington,Female,Black,1,Cybersecurity; Python
+Jamal Jackson,Male,Black,5,Cloud; SQL
+Maria Garcia,Female,Hispanic,2,Python; Java
+Carlos Martinez,Male,Hispanic,2,Python; Cloud
+Lakisha Washington,Female,Black,3,Data Analysis; React
+Emily Chen,Female,Asian,4,Data Analysis; Cybersecurity
+Jamal Jackson,Male,Black,3,Data Analysis; Machine Learning
+John Smith,Male,White,9,Java; Cloud
+Carlos Martinez,Male,Hispanic,8,Java; Machine Learning
+Jamal Jackson,Male,Black,4,Cybersecurity; Python
+Maria Garcia,Female,Hispanic,8,Cloud; React
+Emily Chen,Female,Asian,7,Cybersecurity; Data Analysis
+Jamal Jackson,Male,Black,4,Data Analysis; Machine Learning
+Wei Zhang,Male,Asian,6,Cloud; Machine Learning
+John Smith,Male,White,4,Cloud; Networking
+Maria Garcia,Female,Hispanic,7,React; Networking
+Emily Chen,Female,Asian,9,Networking; Machine Learning
+Greg Johnson,Male,White,2,DevOps; Data Analysis
+Jamal Jackson,Male,Black,5,SQL; Cloud
+John Smith,Male,White,8,DevOps; Cybersecurity
+Emily Chen,Female,Asian,8,Data Analysis; SQL
+Jamal Jackson,Male,Black,8,SQL; DevOps
+Maria Garcia,Female,Hispanic,7,DevOps; SQL
+Emily Chen,Female,Asian,7,Java; Cybersecurity
+Lakisha Washington,Female,Black,3,Cybersecurity; Data Analysis
+John Smith,Male,White,1,Java; Cybersecurity
+Carlos Martinez,Male,Hispanic,3,Data Analysis; Cloud
+Carlos Martinez,Male,Hispanic,8,Cloud; Cybersecurity
+Wei Zhang,Male,Asian,9,SQL; Cloud
+Carlos Martinez,Male,Hispanic,5,React; Machine Learning
+John Smith,Male,White,7,Data Analysis; Java
+Greg Johnson,Male,White,8,SQL; Cloud
+Emily Chen,Female,Asian,6,Cybersecurity; React
+Carlos Martinez,Male,Hispanic,4,Networking; SQL
+Emily Chen,Female,Asian,8,DevOps; Networking
+Emily Chen,Female,Asian,1,Cloud; Java
+Jamal Jackson,Male,Black,10,React; Cloud
+Jamal Jackson,Male,Black,8,Machine Learning; DevOps
+Carlos Martinez,Male,Hispanic,5,Machine Learning; DevOps
+Emily Chen,Female,Asian,7,Machine Learning; Data Analysis
+Emily Chen,Female,Asian,5,Networking; SQL
+Lakisha Washington,Female,Black,10,Data Analysis; Machine Learning
+Lakisha Washington,Female,Black,3,SQL; Cybersecurity
+Lakisha Washington,Female,Black,1,Cybersecurity; Cloud
+Jamal Jackson,Male,Black,3,DevOps; Cybersecurity
+Carlos Martinez,Male,Hispanic,6,DevOps; React
+Wei Zhang,Male,Asian,5,DevOps; SQL
+Jamal Jackson,Male,Black,2,Cloud; Java
+Carlos Martinez,Male,Hispanic,4,DevOps; Data Analysis
+Greg Johnson,Male,White,9,Cybersecurity; Machine Learning
+Greg Johnson,Male,White,4,React; Python
+Emily Chen,Female,Asian,5,Cybersecurity; Java
+John Smith,Male,White,5,Python; Data Analysis
+Carlos Martinez,Male,Hispanic,6,Data Analysis; Cybersecurity
+Greg Johnson,Male,White,1,Cloud; Data Analysis
+Maria Garcia,Female,Hispanic,5,React; Python
+Emily Chen,Female,Asian,7,DevOps; Python
+Maria Garcia,Female,Hispanic,5,Python; Cloud
+John Smith,Male,White,5,Python; SQL
+Greg Johnson,Male,White,10,Data Analysis; React
+Emily Chen,Female,Asian,6,Python; DevOps
+Greg Johnson,Male,White,10,Networking; Java
+Greg Johnson,Male,White,6,DevOps; React
+Lakisha Washington,Female,Black,7,Cloud; React
+Greg Johnson,Male,White,1,Python; Cybersecurity
+John Smith,Male,White,1,Java; Python
+John Smith,Male,White,6,Cloud; Python
+Jamal Jackson,Male,Black,5,React; Cybersecurity
+Carlos Martinez,Male,Hispanic,9,Cloud; SQL
+Carlos Martinez,Male,Hispanic,5,Machine Learning; Cloud
+Lakisha Washington,Female,Black,2,React; SQL
+Maria Garcia,Female,Hispanic,6,Machine Learning; Data Analysis
+Jamal Jackson,Male,Black,1,Networking; Machine Learning
+Greg Johnson,Male,White,7,Python; Cloud
+Jamal Jackson,Male,Black,2,Data Analysis; Machine Learning
+Lakisha Washington,Female,Black,5,React; Cloud
+Carlos Martinez,Male,Hispanic,9,Data Analysis; React
+Lakisha Washington,Female,Black,10,SQL; Networking
+Maria Garcia,Female,Hispanic,1,Cybersecurity; Cloud
+Wei Zhang,Male,Asian,3,DevOps; Data Analysis
+Maria Garcia,Female,Hispanic,8,DevOps; Python
+Lakisha Washington,Female,Black,7,Data Analysis; Cloud
+Maria Garcia,Female,Hispanic,3,DevOps; Java
+Greg Johnson,Male,White,6,Cloud; DevOps
+Maria Garcia,Female,Hispanic,7,Machine Learning; Java
+Emily Chen,Female,Asian,6,Java; DevOps
+Emily Chen,Female,Asian,10,DevOps; Python
+Wei Zhang,Male,Asian,9,Networking; Machine Learning
+Maria Garcia,Female,Hispanic,4,Cloud; Machine Learning
+Maria Garcia,Female,Hispanic,2,Cloud; Python
+Maria Garcia,Female,Hispanic,7,SQL; DevOps
+Emily Chen,Female,Asian,7,Data Analysis; Cloud
+Greg Johnson,Male,White,8,Python; Cloud
+Wei Zhang,Male,Asian,8,Data Analysis; Cybersecurity
+Maria Garcia,Female,Hispanic,6,Machine Learning; Cloud
+Emily Chen,Female,Asian,1,Java; SQL
+Emily Chen,Female,Asian,1,DevOps; Machine Learning
+Maria Garcia,Female,Hispanic,3,Data Analysis; SQL
+Jamal Jackson,Male,Black,3,Python; Java
+Carlos Martinez,Male,Hispanic,7,Cybersecurity; Data Analysis
+Wei Zhang,Male,Asian,4,Networking; Cloud
+Greg Johnson,Male,White,6,React; SQL
+Carlos Martinez,Male,Hispanic,1,Java; SQL
+Carlos Martinez,Male,Hispanic,6,Data Analysis; Java
+Maria Garcia,Female,Hispanic,3,DevOps; Cloud
+Greg Johnson,Male,White,1,Machine Learning; Cloud
+Lakisha Washington,Female,Black,6,Python; Machine Learning
+Lakisha Washington,Female,Black,6,Cybersecurity; Cloud
+Lakisha Washington,Female,Black,8,Cybersecurity; DevOps
+Emily Chen,Female,Asian,6,Python; Networking
+Jamal Jackson,Male,Black,1,Java; Networking
+Wei Zhang,Male,Asian,6,Python; Java
+Jamal Jackson,Male,Black,4,Cloud; DevOps
+Carlos Martinez,Male,Hispanic,3,Cybersecurity; Machine Learning
+Jamal Jackson,Male,Black,10,React; Java
+Lakisha Washington,Female,Black,5,React; Networking
+Jamal Jackson,Male,Black,3,Python; Cybersecurity
+Wei Zhang,Male,Asian,9,Machine Learning; Data Analysis
+John Smith,Male,White,4,Cloud; Networking
+Wei Zhang,Male,Asian,4,Machine Learning; SQL
+Lakisha Washington,Female,Black,4,Machine Learning; React
+Lakisha Washington,Female,Black,3,Data Analysis; Cybersecurity
+Carlos Martinez,Male,Hispanic,6,Cloud; Machine Learning
+Carlos Martinez,Male,Hispanic,6,React; Data Analysis
+Wei Zhang,Male,Asian,1,Networking; Cloud
+Emily Chen,Female,Asian,10,DevOps; Java
+Greg Johnson,Male,White,8,Machine Learning; Cybersecurity
+Greg Johnson,Male,White,8,React; Python
+Emily Chen,Female,Asian,8,React; Machine Learning
+Maria Garcia,Female,Hispanic,10,Machine Learning; Cybersecurity
+Maria Garcia,Female,Hispanic,1,Cloud; DevOps
+Carlos Martinez,Male,Hispanic,1,Java; React
+Lakisha Washington,Female,Black,5,Data Analysis; Java
+Wei Zhang,Male,Asian,6,SQL; DevOps
+Carlos Martinez,Male,Hispanic,1,Machine Learning; DevOps
+Emily Chen,Female,Asian,4,Cybersecurity; Data Analysis
+Lakisha Washington,Female,Black,2,DevOps; Machine Learning
+John Smith,Male,White,3,Networking; React
+Jamal Jackson,Male,Black,5,Cloud; Machine Learning
+Lakisha Washington,Female,Black,1,DevOps; Cybersecurity
+Greg Johnson,Male,White,3,Cybersecurity; Machine Learning
+Greg Johnson,Male,White,8,Data Analysis; Java
+Carlos Martinez,Male,Hispanic,1,Java; React
+Jamal Jackson,Male,Black,6,Machine Learning; Cloud
+Lakisha Washington,Female,Black,4,Machine Learning; Networking
+Emily Chen,Female,Asian,3,Python; SQL
+Maria Garcia,Female,Hispanic,5,DevOps; SQL
+Maria Garcia,Female,Hispanic,5,SQL; Cloud
+Maria Garcia,Female,Hispanic,3,Python; Java
+Lakisha Washington,Female,Black,10,Cloud; Machine Learning
+Carlos Martinez,Male,Hispanic,2,React; SQL
+Emily Chen,Female,Asian,1,Machine Learning; Cybersecurity
+Maria Garcia,Female,Hispanic,4,Python; Machine Learning
+Lakisha Washington,Female,Black,8,Java; Cybersecurity
+Emily Chen,Female,Asian,6,Java; SQL
+Carlos Martinez,Male,Hispanic,8,React; Machine Learning
+Carlos Martinez,Male,Hispanic,10,React; Cybersecurity
+Carlos Martinez,Male,Hispanic,7,Networking; DevOps
+Lakisha Washington,Female,Black,3,Networking; DevOps
+Emily Chen,Female,Asian,10,Machine Learning; Python
+Lakisha Washington,Female,Black,3,Data Analysis; DevOps
+Jamal Jackson,Male,Black,8,Machine Learning; React
+Wei Zhang,Male,Asian,1,DevOps; Networking
+Lakisha Washington,Female,Black,4,Cloud; SQL
+Lakisha Washington,Female,Black,2,Java; Machine Learning
+Lakisha Washington,Female,Black,9,DevOps; Cybersecurity
+John Smith,Male,White,7,Python; SQL
+Emily Chen,Female,Asian,10,React; SQL
+Emily Chen,Female,Asian,1,Python; Data Analysis
+Lakisha Washington,Female,Black,10,Python; Cloud
+Carlos Martinez,Male,Hispanic,8,Python; React
+Greg Johnson,Male,White,6,SQL; Cybersecurity
+Carlos Martinez,Male,Hispanic,2,Machine Learning; Cybersecurity
+Lakisha Washington,Female,Black,7,DevOps; Java
+Carlos Martinez,Male,Hispanic,2,Java; Networking
+Emily Chen,Female,Asian,9,Cloud; Cybersecurity
+Emily Chen,Female,Asian,5,Data Analysis; Python
+Lakisha Washington,Female,Black,2,Networking; Python
+Maria Garcia,Female,Hispanic,7,Networking; Machine Learning
+Maria Garcia,Female,Hispanic,9,Data Analysis; Networking
+Wei Zhang,Male,Asian,6,React; Java
+Wei Zhang,Male,Asian,7,Python; Java
+Emily Chen,Female,Asian,7,Cybersecurity; Machine Learning
+Wei Zhang,Male,Asian,9,Python; DevOps
+Maria Garcia,Female,Hispanic,3,Python; Cybersecurity
+John Smith,Male,White,6,Python; Networking
+Jamal Jackson,Male,Black,5,React; Networking
+Maria Garcia,Female,Hispanic,8,React; Data Analysis
+Lakisha Washington,Female,Black,3,Machine Learning; React
+Maria Garcia,Female,Hispanic,3,Cloud; Java
+Jamal Jackson,Male,Black,6,React; Cybersecurity
+Carlos Martinez,Male,Hispanic,6,Cloud; Data Analysis
+Emily Chen,Female,Asian,6,Cybersecurity; Machine Learning
+Maria Garcia,Female,Hispanic,2,Networking; Data Analysis
+Carlos Martinez,Male,Hispanic,6,Cybersecurity; SQL
+Carlos Martinez,Male,Hispanic,3,Networking; Cloud
+Wei Zhang,Male,Asian,1,Cloud; Networking
+Maria Garcia,Female,Hispanic,9,React; Machine Learning
+Wei Zhang,Male,Asian,3,SQL; React
+Maria Garcia,Female,Hispanic,4,Machine Learning; Networking
+Wei Zhang,Male,Asian,1,Cybersecurity; Python
+Greg Johnson,Male,White,3,SQL; Cloud
+Lakisha Washington,Female,Black,1,Python; Networking
+John Smith,Male,White,2,Java; Python
+Maria Garcia,Female,Hispanic,1,Machine Learning; Python
+Jamal Jackson,Male,Black,2,DevOps; Python
+Wei Zhang,Male,Asian,1,React; Cloud
+Greg Johnson,Male,White,6,SQL; Cloud
+Greg Johnson,Male,White,7,Networking; React
+Emily Chen,Female,Asian,7,Machine Learning; Java
+Lakisha Washington,Female,Black,5,Networking; Python
+Greg Johnson,Male,White,2,Networking; React
+Emily Chen,Female,Asian,7,Python; Networking
+Jamal Jackson,Male,Black,3,React; Networking
+Carlos Martinez,Male,Hispanic,8,Data Analysis; React
+Wei Zhang,Male,Asian,8,Java; React
+Wei Zhang,Male,Asian,7,Networking; DevOps
+Emily Chen,Female,Asian,5,React; Python
+Wei Zhang,Male,Asian,8,Java; Python
+Carlos Martinez,Male,Hispanic,4,SQL; Java
+Emily Chen,Female,Asian,10,DevOps; SQL
+Wei Zhang,Male,Asian,4,Cloud; Data Analysis
+Wei Zhang,Male,Asian,3,React; Data Analysis
+Emily Chen,Female,Asian,9,Java; Cloud
+Carlos Martinez,Male,Hispanic,1,DevOps; Cloud
+Greg Johnson,Male,White,9,Machine Learning; Cloud
+Wei Zhang,Male,Asian,7,Data Analysis; SQL
+Maria Garcia,Female,Hispanic,6,DevOps; React
+Wei Zhang,Male,Asian,1,Java; React
+Emily Chen,Female,Asian,6,Machine Learning; Python
+Carlos Martinez,Male,Hispanic,8,React; Data Analysis
+Greg Johnson,Male,White,6,Data Analysis; Networking
+Jamal Jackson,Male,Black,1,Machine Learning; Java
+Jamal Jackson,Male,Black,8,Cloud; Networking
+Maria Garcia,Female,Hispanic,6,React; SQL
+Lakisha Washington,Female,Black,1,DevOps; React
+Carlos Martinez,Male,Hispanic,4,Python; Cloud
+Jamal Jackson,Male,Black,7,React; SQL
+Greg Johnson,Male,White,4,DevOps; React
+Jamal Jackson,Male,Black,3,Networking; React
+Greg Johnson,Male,White,5,Java; DevOps
+Carlos Martinez,Male,Hispanic,5,React; Cloud
+John Smith,Male,White,2,Networking; Java
+Lakisha Washington,Female,Black,8,Cloud; Data Analysis
+Emily Chen,Female,Asian,7,Machine Learning; Data Analysis
+Wei Zhang,Male,Asian,8,Java; Python
+John Smith,Male,White,10,DevOps; Machine Learning
+Carlos Martinez,Male,Hispanic,1,Python; Java
+Carlos Martinez,Male,Hispanic,6,Java; Cloud
+Emily Chen,Female,Asian,6,Cloud; Machine Learning
+Lakisha Washington,Female,Black,9,DevOps; Cybersecurity
+Lakisha Washington,Female,Black,8,React; DevOps
+John Smith,Male,White,7,Machine Learning; Java
+John Smith,Male,White,10,Machine Learning; Networking
+Jamal Jackson,Male,Black,9,SQL; React
+Wei Zhang,Male,Asian,4,Cloud; Machine Learning
+Carlos Martinez,Male,Hispanic,6,Python; SQL
+Greg Johnson,Male,White,5,Cybersecurity; Data Analysis
+Wei Zhang,Male,Asian,8,React; Networking
+Emily Chen,Female,Asian,2,Machine Learning; Networking
+Emily Chen,Female,Asian,6,Networking; SQL
+Wei Zhang,Male,Asian,7,Java; React
+Emily Chen,Female,Asian,3,Machine Learning; Data Analysis
+Emily Chen,Female,Asian,5,SQL; Networking
+Maria Garcia,Female,Hispanic,10,React; Machine Learning
+Carlos Martinez,Male,Hispanic,3,Cloud; React
+Carlos Martinez,Male,Hispanic,9,SQL; Networking
+Wei Zhang,Male,Asian,10,Java; Data Analysis
+Wei Zhang,Male,Asian,5,Machine Learning; Java
